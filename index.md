@@ -1,3 +1,8 @@
+---
+title: Main Page
+layout: default
+---
+
 # Jackson Mumper Open Source GIS Portfolio
 Hi, I'll probably write a short bio later hopefully
 
