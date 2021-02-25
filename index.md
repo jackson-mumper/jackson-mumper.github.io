@@ -1,7 +1,7 @@
 # Jackson Mumper Open Source GIS Portfolio
 Hi, I'll probably write a short bio later hopefully
 
-- item 1
+- [Gravity Mode of Spatial Interaction](gravity/gravity.md)
 - item 2
 
 1. first
