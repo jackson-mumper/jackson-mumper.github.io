@@ -13,3 +13,6 @@ Hi, I'll probably write a short bio later hopefully
 1. third
 
 [Course website](https://gis4dev.github.io/)
+
+_Remember_ sometimes Github takes a few (10) to render new changes
+
