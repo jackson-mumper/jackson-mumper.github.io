@@ -21,7 +21,7 @@ Hi, I'll probably write a short bio later hopefully
 
 _Remember_ sometimes Github takes a few (10) to render new changes
 
-## Musings 
+## Musings
 
--[What is open source GIScience](musings/open-source.md)
+-[What is open source GIScience](musings/open_source.md)
 -another future blog post
