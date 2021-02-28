@@ -14,7 +14,7 @@ Hi, I'll write a short bio later. In the meantime, welcome to my GIS page!
 - TBD
 
 ## Blog Posts
+- [What is open source GIScience](musings/open_source.md)
+- TBD
 
--[What is open source GIScience](musings/open_source.md)
--TBD
-
+![cat](cat.heic)
