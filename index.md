@@ -4,24 +4,17 @@ layout: default
 ---
 
 # Jackson Mumper Open Source GIS Portfolio
-Hi, I'll probably write a short bio later hopefully
+Hi, I'll write a short bio later. In the meantime, welcome to my GIS page!
 
-- [Gravity Mode of Spatial Interaction](gravity/gravity.md)
-- item 2
-
-1. first
-2. second
-3. third
-
-1. first
-1. second
-1. third
-
+## Course Website
 [Course website](https://gis4dev.github.io/)
 
-_Remember_ sometimes Github takes a few (10) to render new changes
+## Classwork
+- [Gravity Mode of Spatial Interaction](gravity/gravity.md)
+- TBD
 
-## Musings
+## Blog Posts
 
 -[What is open source GIScience](musings/open_source.md)
--another future blog post
+-TBD
+
