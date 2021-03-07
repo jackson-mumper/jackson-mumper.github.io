@@ -16,8 +16,9 @@ Hi, I'll write a short bio later. In the meantime, welcome to my GIS page!
 
 
 ## Blog Posts
-- [What is open source GIScience](musings/open_source.md)
-- TBD
+- [What is open source GIScience?](musings/open_source.md)
+- [Is GIS a Science?](musings/defining_science.md)
+- []
 
 
 ![cat](cat.heic)
