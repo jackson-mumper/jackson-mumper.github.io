@@ -3,6 +3,8 @@ layout: page
 title: Gravity Model of Spatial Interraction
 ---
 
+[Leaflet Gravity Model Map](https://jackson-mumper.github.io/gravity/assets/leaflet_map/#6/44.281/-70.887)
+
 *Progress Report on Gravity Model as of 7 March 2021*
 
 *Current Status*
