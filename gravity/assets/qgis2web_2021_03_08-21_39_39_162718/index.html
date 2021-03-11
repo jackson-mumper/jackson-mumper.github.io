@@ -1,0 +1,244 @@
+<!doctype html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge">
+        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta name="apple-mobile-web-app-capable" content="yes">
+        <link rel="stylesheet" href="css/leaflet.css">
+        <link rel="stylesheet" href="css/qgis2web.css"><link rel="stylesheet" href="css/fontawesome-all.min.css">
+        <link rel="stylesheet" href="css/leaflet-measure.css">
+        <style>
+        html, body, #map {
+            width: 100%;
+            height: 100%;
+            padding: 0;
+            margin: 0;
+        }
+        </style>
+        <title></title>
+    </head>
+    <body>
+        <div id="map">
+        </div>
+        <script src="js/qgis2web_expressions.js"></script>
+        <script src="js/leaflet.js"></script>
+        <script src="js/leaflet.rotatedMarker.js"></script>
+        <script src="js/leaflet.pattern.js"></script>
+        <script src="js/leaflet-hash.js"></script>
+        <script src="js/Autolinker.min.js"></script>
+        <script src="js/rbush.min.js"></script>
+        <script src="js/labelgun.min.js"></script>
+        <script src="js/labels.js"></script>
+        <script src="js/leaflet-measure.js"></script>
+        <script src="data/new_england_hospitals_1.js"></script>
+        <script src="data/new_england_hospital_catchments_2.js"></script>
+        <script src="data/dartmouth_hsa_new_england_3.js"></script>
+        <script>
+        var map = L.map('map', {
+            zoomControl:true, maxZoom:28, minZoom:1
+        })
+        var hash = new L.Hash(map);
+        map.attributionControl.setPrefix('<a href="https://github.com/tomchadwin/qgis2web" target="_blank">qgis2web</a> &middot; <a href="https://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> &middot; <a href="https://qgis.org">QGIS</a>');
+        var autolinker = new Autolinker({truncate: {length: 30, location: 'smart'}});
+        var measureControl = new L.Control.Measure({
+            position: 'topleft',
+            primaryLengthUnit: 'meters',
+            secondaryLengthUnit: 'kilometers',
+            primaryAreaUnit: 'sqmeters',
+            secondaryAreaUnit: 'hectares'
+        });
+        measureControl.addTo(map);
+        document.getElementsByClassName('leaflet-control-measure-toggle')[0]
+        .innerHTML = '';
+        document.getElementsByClassName('leaflet-control-measure-toggle')[0]
+        .className += ' fas fa-ruler';
+        var bounds_group = new L.featureGroup([]);
+        function setBounds() {
+            if (bounds_group.getLayers().length) {
+                map.fitBounds(bounds_group.getBounds());
+            }
+        }
+        map.createPane('pane_OSMStandard_0');
+        map.getPane('pane_OSMStandard_0').style.zIndex = 400;
+        var layer_OSMStandard_0 = L.tileLayer('http://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            pane: 'pane_OSMStandard_0',
+            opacity: 1.0,
+            attribution: '<a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors, CC-BY-SA</a>',
+            minZoom: 1,
+            maxZoom: 28,
+            minNativeZoom: 0,
+            maxNativeZoom: 19
+        });
+        layer_OSMStandard_0;
+        map.addLayer(layer_OSMStandard_0);
+        function pop_new_england_hospitals_1(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['BEDS'] !== null ? autolinker.link(feature.properties['BEDS'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['NAME'] !== null ? autolinker.link(feature.properties['NAME'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['CITY'] !== null ? autolinker.link(feature.properties['CITY'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['STATE'] !== null ? autolinker.link(feature.properties['STATE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['TYPE'] !== null ? autolinker.link(feature.properties['TYPE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['COUNTY'] !== null ? autolinker.link(feature.properties['COUNTY'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_new_england_hospitals_1_0() {
+            return {
+                pane: 'pane_new_england_hospitals_1',
+                radius: 4.0,
+                opacity: 1,
+                color: 'rgba(35,35,35,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 1,
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(190,207,80,1.0)',
+                interactive: true,
+            }
+        }
+        map.createPane('pane_new_england_hospitals_1');
+        map.getPane('pane_new_england_hospitals_1').style.zIndex = 401;
+        map.getPane('pane_new_england_hospitals_1').style['mix-blend-mode'] = 'normal';
+        var layer_new_england_hospitals_1 = new L.geoJson(json_new_england_hospitals_1, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_new_england_hospitals_1',
+            layerName: 'layer_new_england_hospitals_1',
+            pane: 'pane_new_england_hospitals_1',
+            onEachFeature: pop_new_england_hospitals_1,
+            pointToLayer: function (feature, latlng) {
+                var context = {
+                    feature: feature,
+                    variables: {}
+                };
+                return L.circleMarker(latlng, style_new_england_hospitals_1_0(feature));
+            },
+        });
+        bounds_group.addLayer(layer_new_england_hospitals_1);
+        map.addLayer(layer_new_england_hospitals_1);
+        function pop_new_england_hospital_catchments_2(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['TargetID'] !== null ? autolinker.link(feature.properties['TargetID'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['TargetWeig'] !== null ? autolinker.link(feature.properties['TargetWeig'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['new_field'] !== null ? autolinker.link(feature.properties['new_field'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_new_england_hospital_catchments_2_0() {
+            return {
+                pane: 'pane_new_england_hospital_catchments_2',
+                opacity: 1,
+                color: 'rgba(255,83,83,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 3.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(255,81,116,0.1607843137254902)',
+                interactive: true,
+            }
+        }
+        map.createPane('pane_new_england_hospital_catchments_2');
+        map.getPane('pane_new_england_hospital_catchments_2').style.zIndex = 402;
+        map.getPane('pane_new_england_hospital_catchments_2').style['mix-blend-mode'] = 'normal';
+        var layer_new_england_hospital_catchments_2 = new L.geoJson(json_new_england_hospital_catchments_2, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_new_england_hospital_catchments_2',
+            layerName: 'layer_new_england_hospital_catchments_2',
+            pane: 'pane_new_england_hospital_catchments_2',
+            onEachFeature: pop_new_england_hospital_catchments_2,
+            style: style_new_england_hospital_catchments_2_0,
+        });
+        bounds_group.addLayer(layer_new_england_hospital_catchments_2);
+        map.addLayer(layer_new_england_hospital_catchments_2);
+        function pop_dartmouth_hsa_new_england_3(feature, layer) {
+            var popupContent = '<table>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['HSA93'] !== null ? autolinker.link(feature.properties['HSA93'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['HSANAME'] !== null ? autolinker.link(feature.properties['HSANAME'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['STATE'] !== null ? autolinker.link(feature.properties['STATE'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['HRR93'] !== null ? autolinker.link(feature.properties['HRR93'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['HRR93_NAME'] !== null ? autolinker.link(feature.properties['HRR93_NAME'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['Persons90'] !== null ? autolinker.link(feature.properties['Persons90'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['hosp_cnt'] !== null ? autolinker.link(feature.properties['hosp_cnt'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                    <tr>\
+                        <td colspan="2">' + (feature.properties['HSA_label'] !== null ? autolinker.link(feature.properties['HSA_label'].toLocaleString()) : '') + '</td>\
+                    </tr>\
+                </table>';
+            layer.bindPopup(popupContent, {maxHeight: 400});
+        }
+
+        function style_dartmouth_hsa_new_england_3_0() {
+            return {
+                pane: 'pane_dartmouth_hsa_new_england_3',
+                opacity: 1,
+                color: 'rgba(23,130,0,1.0)',
+                dashArray: '',
+                lineCap: 'butt',
+                lineJoin: 'miter',
+                weight: 3.0, 
+                fill: true,
+                fillOpacity: 1,
+                fillColor: 'rgba(0,138,32,0.11372549019607843)',
+                interactive: true,
+            }
+        }
+        map.createPane('pane_dartmouth_hsa_new_england_3');
+        map.getPane('pane_dartmouth_hsa_new_england_3').style.zIndex = 403;
+        map.getPane('pane_dartmouth_hsa_new_england_3').style['mix-blend-mode'] = 'normal';
+        var layer_dartmouth_hsa_new_england_3 = new L.geoJson(json_dartmouth_hsa_new_england_3, {
+            attribution: '',
+            interactive: true,
+            dataVar: 'json_dartmouth_hsa_new_england_3',
+            layerName: 'layer_dartmouth_hsa_new_england_3',
+            pane: 'pane_dartmouth_hsa_new_england_3',
+            onEachFeature: pop_dartmouth_hsa_new_england_3,
+            style: style_dartmouth_hsa_new_england_3_0,
+        });
+        bounds_group.addLayer(layer_dartmouth_hsa_new_england_3);
+        map.addLayer(layer_dartmouth_hsa_new_england_3);
+        var baseMaps = {};
+        L.control.layers(baseMaps,{'<img src="legend/dartmouth_hsa_new_england_3.png" /> dartmouth_hsa_new_england': layer_dartmouth_hsa_new_england_3,'<img src="legend/new_england_hospital_catchments_2.png" /> new_england_hospital_catchments': layer_new_england_hospital_catchments_2,'<img src="legend/new_england_hospitals_1.png" /> new_england_hospitals': layer_new_england_hospitals_1,"OSM Standard": layer_OSMStandard_0,}).addTo(map);
+        setBounds();
+        </script>
+    </body>
+</html>
