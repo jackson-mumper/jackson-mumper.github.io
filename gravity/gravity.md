@@ -3,18 +3,20 @@ layout: page
 title: Gravity Model of Spatial Interraction
 ---
 
-[Leaflet Gravity Model Map](https://jackson-mumper.github.io/gravity/assets/leaflet_map/#6/44.281/-70.887)
+I created a gravity model of spatial interaction to estimate the coverage extents of hospitals in New England. It does this by assuming people will tend to go to hospitals that are nearest to them and that have more beds. By looking at these three factors, one can create hospital catchment areas that show what hospitals people would be most likely to go to.
 
-*Progress Report on Gravity Model as of 7 March 2021*
+Paragraph about data sources.
 
-*Current Status*
-I have currently built two models - a hospital preprearation model and the gravity model. Both of these models function, however some tweaks are still needed and the gravity model takes >10 minutes to run. After applying these models to the netowns and New England hospitals, I have a map of catchments for New England.
+Paragraph about preprocessing.
+  Screenshot of preprocessing Model
 
-*Roadblocks*
-At this point I'm mostly confused about what next steps need to be taken. I'm having difficulty interpreting what is listed on the course page as instructions so there are a few areas that I'm confused about. I'm hoping that after class on Monday I have a clearer idea about what the final deliverable should be and for what purpose we have the Dartmouth HSAs.
+Paragraph about analysis steps
+  Screenshot of gravity model
 
-*To-Do*
--Aggregate Hospitals in the same town/city.
--Clip data to only look at towns and hospital catchments in New England.
--Adjust my input parameters to match the Dartmouth HSAs.
--Upload to the web?
+Paragraph about comparison to Dartmouth Map
+
+A map of the hospital catchment areas that I found when compared to the Dartmouth Atlas can be found [here.](https://jackson-mumper.github.io/gravity/assets/leaflet_map/#6/44.281/-70.887)
+
+As one can see, my model places a much stronger reliance on beds than distance when compared to the Dartmouth HSAs. Springfield, MA, for example, has a catchment area in my analysis that includes almost all of western Massachusetts as well as much of northern Connecticut, totally over 3 million people, despite there being several other hospitals in the region. In future iterations of this project I would decrease the friction of distance to account for some of this.
+
+**Data Sources**
