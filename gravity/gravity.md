@@ -9,7 +9,7 @@ This project involved creating a gravity model of spatial interaction to estimat
 
 In order to prepare the hospital data to be used in the model, there was some preprocessing that needed to be done. The image below shoes the workflow used in the hospital preprocessing.
 
-image
+![Preprocessing](/assets/hospital_model.png)
 
 The model workflow went goes through 7 steps as outlined below.
 
@@ -21,15 +21,15 @@ The model workflow went goes through 7 steps as outlined below.
 6. Aggregate hospitals within the same town (using the newly calculated place_id field). This is so that nearby hospitals that may have more resources split amongst them than hospitals of their size typically would have appropriate weight in the model.
 7. Find the centroids of all hospitals within each town to use as the new geometry of the pre-processed hospitals.
 
-The result of this model, available here, from the input data was a new hospital points layer that was appropriate as an input in the gravity model.
+The result of this model, available [here](/assets/hospital_aggregate.model3), from the input data was a new hospital points layer that was appropriate as an input in the gravity model.
 
 **About the Gravity Model**
 
 In order to create the hospital catchments, I created a gravity model in QGIS. The gravity model, available here, is designed to be a more generalizable model that can be used in more analyses than this one. An image of the model can be found below.
 
-image
+![Gravity Model](/assets/gravity_model.png)
 
-And a download link for the model is available here.
+And a download link for the model is available [here](/assets/gravity_model.model3).
 
 The gravity model takes input and target layers, each with specified ID and weight fields, as well as four advanced options, k, lambda, alpha, and beta. I assigned default parameters for these as 20, 1, 1, and 2 respectively, and left those parameters in my analysis.
 
