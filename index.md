@@ -21,4 +21,4 @@ Hi, I'll write a short bio later. In the meantime, welcome to my GIS page!
 - []
 
 
-![cat](cat.heic)
+![cat](cat.png)
