@@ -12,6 +12,7 @@ Hi, I'll write a short bio later. In the meantime, welcome to my GIS page!
 
 ## Classwork
 - [Gravity Mode of Spatial Interaction](gravity/gravity.md)
+- [Replication of Kasprack et al River Classification](rosgen/rosgen.md)
 
 
 ## Blog Posts
