@@ -13,6 +13,7 @@ Hi, I'll write a short bio later. In the meantime, welcome to my GIS page!
 ## Classwork
 - [Gravity Mode of Spatial Interaction](gravity/gravity.md)
 - [Replication of Kasprack et al River Classification](rosgen/rosgen.md)
+- [Riparian Trees and Flooding in Dar es Salaam](dsm_trees/dsm_trees.md)
 
 
 ## Blog Posts
