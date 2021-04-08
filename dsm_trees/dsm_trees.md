@@ -1,4 +1,3 @@
-Final Github Writeup:
 ---
 layout: page
 title: Riparian Trees and Flood Zones in Dar es Salaam
@@ -14,7 +13,7 @@ This lab focuses on the relationship between riparian trees and flood zones in D
 
 **Data Sources**
 
-Our data sources have been acquired from (OpenStreetMap)[https://www.openstreetmap.org/#map=12/-6.8162/39.2804], a community-based mapping project and platform providing open data and emphasizing contributions of local knowledge. One such contribution that has been significant for developing data on Dar es Salaam is the (Ramani Huria)[https://ramanihuria.org/en/] project, which trains university students and local community members to create highly accurate maps of their localities. This initiative initially began as a project to accurately map out flood-prone areas in the city, however, it has now expanded to serve as a foundational tool for addressing different social and environmental spheres beyond resilience. We have used this OpenStreetMap data to collect information on flood-prone areas, trees, forests, and rivers for the purposes of our analysis.
+Our data sources have been acquired from [OpenStreetMap](https://www.openstreetmap.org/#map=12/-6.8162/39.2804), a community-based mapping project and platform providing open data and emphasizing contributions of local knowledge. One such contribution that has been significant for developing data on Dar es Salaam is the [Ramani Huria](https://ramanihuria.org/en/) project, which trains university students and local community members to create highly accurate maps of their localities. This initiative initially began as a project to accurately map out flood-prone areas in the city, however, it has now expanded to serve as a foundational tool for addressing different social and environmental spheres beyond resilience. We have used this OpenStreetMap data to collect information on flood-prone areas, trees, forests, and rivers for the purposes of our analysis.
 
 
 **Methods**
@@ -48,6 +47,6 @@ Although this methodology is flawed, further investigation with more robust tech
 2. More accurate data, potentially satellite imagery or raster data
 3. Aggregation by river/stream rather than by wards
 
-A full, interactive map of riparian trees, riparian buffers, flood zones, and ward boundaries in our study region can be found [here](link to leaflet map).
+A full, interactive map of riparian trees, riparian buffers, flood zones, and ward boundaries in our study region can be found [here](https://sanjana-roy.github.io/PostGISProject/assets/index.html#10/-6.8439/39.2679).
 
 [Return home](https://jackson-mumper.github.io)
