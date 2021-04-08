@@ -26,11 +26,11 @@ The full script used in this analysis can be found [here](/assets/dsm_script.sql
 
 **Results**
 
-The scatterplot in Figure 3 illustrates the correlation between riparian trees and incidence of flooding by ward in Dar es Salaam.
+The scatterplot below illustrates the correlation between riparian trees and incidence of flooding by ward in Dar es Salaam.
 
 ![graph](/assets/graph.png)
 
-As shown in the scatter plot, there is actually a positive correlation between riparian trees and flooded areas. This means that wards with higher densities of tree cover near rivers had experienced more flooding than those farther away. This goes against our original hypothesis that riparian trees would reduce flood areas on Dar es Salaam. However, the correlation is weak, and the R^2 value is low enough to warrant further investigation.
+As shown in the figure, there is actually a positive correlation between riparian trees and flooded areas. This means that wards with higher densities of tree cover near rivers had experienced more flooding than those farther away. This goes against our original hypothesis that riparian trees would reduce flood areas on Dar es Salaam. However, the correlation is weak, and the R^2 value is low enough to warrant further investigation.
 
 While these data go against traditional understandings of the effects of riparian vegetation on flooding, there are a few aspects of our methodology that might have contributed to this outcome. To start, certain parts of the city that saw greater flooding were closer to the mouth of the river. This tends to be the widest and shallowest section of a river, therefore making it most likely to flood. In addition, forest patches along the river were mostly found downstream, near the coast. Because of this, downstream wards tended to have both the highest incidence of flooding and the largest observed riparian trees, leading to a positive correlation that might not be the result of a causal relationship.
 
