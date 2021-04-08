@@ -5,7 +5,7 @@ title: Riparian Trees and Flood Zones in Dar es Salaam
 
 This was a collaborative project between [Sanjana Roy](https://sanjana-roy.github.io) and [Jackson Mumper](https://jackson-mumper.github.io).
 
-April 5, 2021
+April 7, 2021
 
 **Introduction**
 
@@ -20,7 +20,7 @@ Our data sources have been acquired from [OpenStreetMap](https://www.openstreetm
 
 The above data was gathered through PostGIS in QGIS and database queries using SQL were run for our analysis. Data tables were extracted from OpenStreetMap (OSM). We found tree data to be present on OSM in two different vector types: a tree point layer and a forest area polygon layer. Buffers of 20 feet (6 meters) were created around each tree point as absorption of water into the soil takes place within a certain radius of a tree center due to its vast root network. These buffer polygons were then grouped with the forest polygon layer to form a singular polygon layer for all trees in Dar es Salaam. Riparian buffers of 50 feet (15 meters) were added to rivers and streams flowing through the city. The trees polygon layer was then clipped using the riparian buffers to extract the trees, or vegetation, that fell within this determined riparian zone. This riparian vegetation layer was then dissolved and clipped by wards. The area of the riparian vegetation as well as the flood area was calculated for each ward and the percent of each wards landmass covered by these two layers was compared in the form of a scatterplot shown below.
 
-The full script used in this analysis can be downloaded [here](/assets/dsm_script.md).
+The full script used in this analysis can be found [here](/assets/dsm_script.md).
 
 ![static_map](/assets/static_map.png)
 
