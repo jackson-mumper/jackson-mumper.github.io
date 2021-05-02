@@ -1,6 +1,6 @@
 ---
 layout: page
-title: What is Open Source GIScience
+title: GIS as Reproducible Science
 ---
 
 I feel like the debate as to whether GIS is a science would be easier to have if we spent more time defining terms. I think the term ‘GIS’ is being applied to many different things, all of which constitute a specific part of GIS but aren’t exactly the same. For example, when I first started taking GEOG 120, I thought that GIS was the name of one computer program that was used for geographic analyses. In reality, a bunch of different softwares are called GIS. But the act of doing using these softwares, is also referred to as just ‘doing GIS-work.’
@@ -16,5 +16,3 @@ Sources
 National Academies of Sciences, Engineering, and Medicine. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. DOI: 10.17226/25303
 
 Wright, D. J., M. F. Goodchild, and J. D. Proctor. 1997. GIS: Tool or science? Demystifying the persistent ambiguity of GIS as “tool” versus “science.” Annals of the Association of American Geographers 87 (2):346–362. DOI: 10.1111/0004-5608.872057
-
-

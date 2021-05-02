@@ -18,7 +18,10 @@ Created: 27 March 2021 Revised: 27 March 2021
 This project is a replication of Kasprak et al. and their classification of the Middle Fork John Day Basin, along the Columbia River in northeastern Oregon. Kasprak et al. used multiple stream classification systems on this section of the river, but for this analysis, we only sought to replicate their findings using the Rosgen Classification System (RCS), and only for one study location - a point along Vinegar Creek. Replication is an important aspect of scientific research, including GIS research, to ensure with extra certainty the validity and efficacy of findings.
 
 ![map_outer](/assets/map_outer.png)
+*Map of analysis point in relation to Baker City, OR.*
+
 ![map_inner](/assets/map_inner.png)
+*Map of analysis point in relation to larger river and highway.*
 
 **Methods**
 
@@ -70,7 +73,9 @@ The variable that ultimately led to our different results was slope, for which K
 Given that the longitudinal profile shows the river going up in certain places, it is probably unwise to trust in this as a tool for classifying the river. The lines I used to digitize the valley and river banks, and from there calculate the valley and river centerlines in the study area, are found below.
 
 ![valley](/assets/valley.png)
+*Map of Digitized Valley Floor*
 ![banks](/assets/banks.png)
+*Map of Digitized River Banks*
 
 **Conclusion**
 
@@ -78,7 +83,10 @@ Despite inconsistencies in digitizing the river banks and a lack of on-the-groun
 
 **References**
 
-Kasprak
-Rosgen
-Joe + co
-OpenStreetMap ahah
+Kasprak, A., N. Hough-Snee, T. Beechie, N. Bouwes, G. Brierley, R. Camp, K. Fryirs, H. Imaki, M. Jensen, G. O’Brien, D. Rosgen, and J. Wheaton. 2016. The Blurred Line between Form and Process: A Comparison of Stream Channel Classification Frameworks ed. J. A. Jones. PLOS ONE 11 (3):e0150293. https://dx.plos.org/10.1371/journal.pone.0150293.
+
+Rosgen, D. L. in CATENA 22 (3):169–199. https://linkinghub.elsevier.com/retrieve/pii/0341816294900019.
+
+OpenStreetMap Contributors
+
+Thank you to Professor Joe Holler, Kufre Udoh, and the rest of the Geog323 class for the collaborative spirit and aid in this project.
