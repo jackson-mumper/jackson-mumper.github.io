@@ -23,6 +23,8 @@ To see my work from Geog 351: Remote Sensing and Land Use in Sub-Saharan Africa,
 - [What is open source GIScience?](musings/open_source.md)
 - [Is GIS a Science?](musings/defining_science.md)
 - [Error and Uncertainty](musings/error_and_uncertainty.md)
+- [Spatial Twitter Analysis](musings/twitter_analysis.md)
+- [Humanitarian GIS](musings/humanitarian_gis.md)
 
 
 ![cat](cat.png)
