@@ -14,7 +14,7 @@ Jackson Mumper, Joseph Holler, Kufre Udoh, Open Source GIScience students of fal
 Replication Materials Available at: [RP-Malcomb](https://github.com/jackson-mumper/RP-Malcomb)
 
 Created: `26 April 2021`
-Revised: `3 May 2021`
+Revised: `4 May 2021`
 
 ## Abstract
 
@@ -98,7 +98,9 @@ In the case of adaptive capacity, similar results were found as with Malcomb et 
 ![diff_ac](/assets/difference4.png)
 Figure 4: Map of localized differences in adaptive capacity
 
-Ultimately, differences in quantile classifications of adaptive capacity remained small between the original study and this replication, and the differences that were found were not localized to any specific region in Malawi, indicating that they were likely the result of differences in methodological discrepancies rather than conceptual differences in problem conception.
+Spearman's rho coefficients were calculated for both adaptive capacity and vulnerability to determine the divergence of this reproduction from the original Malcomb et al paper. For adaptive capacity, spearman's rho was 0.7870, and for vulnerability, spearman's rho was 0.2194. This shows that while in both cases the results of this study are correlated better than random with Malcomb's results, only in the case of adaptive capacity can one say the reproduction performed well.
+
+Differences in quantile classifications of adaptive capacity remained small between the original study and this replication, and the differences that were found were not localized to any specific region in Malawi, indicating that they were likely the result of differences in methodological discrepancies rather than conceptual differences in problem conception.
 
 This was not the case, however, for vulnerability. Replicated vulnerability maps upon initial visual inspection seemed to agree with the original findings that areas in southern Malawi were more vulnerable to climate change. However, the replication introduced a lot of noise in the data that's not present in the original report. The difference map of vulnerability, as well as a scatterplot comparison of the two raster maps can be found in Figures 5 and 6.
 
