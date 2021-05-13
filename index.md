@@ -25,6 +25,7 @@ To see my work from Geog 351: Remote Sensing and Land Use in Sub-Saharan Africa,
 - [Error and Uncertainty](musings/error_and_uncertainty.md)
 - [Spatial Twitter Analysis](musings/twitter_analysis.md)
 - [Humanitarian GIS](musings/humanitarian_gis.md)
+- [Reproducibility and Ethics](musings/reproducibility_and_ethics.md)
 
 
 ![cat](cat.png)
