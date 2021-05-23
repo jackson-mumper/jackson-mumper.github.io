@@ -17,6 +17,7 @@ To see my work from Geog 351: Remote Sensing and Land Use in Sub-Saharan Africa,
 - [Replication of Kasprack et al River Classification](rosgen/rosgen.md)
 - [Riparian Trees and Flooding in Dar es Salaam](dsm_trees/dsm_trees.md)
 - [Replication of Malcomb et al Climate Change Vulnerability in Malawi](malcomb/malcomb.md)
+- [Analysis of Twitter Activity during CDMX Metro Collapse](twitter/twitter.md)
 
 
 ## Blog Posts
