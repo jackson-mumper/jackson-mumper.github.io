@@ -16,7 +16,7 @@ Replication Author: Jackson Mumper
 Replication Materials Available at: [RE-Dorian](https://github.com/GIS4DEV/RE-Dorian)
 
 Created: `17 May 2021`
-Revised: `22 May 2021`
+Revised: `23 May 2021`
 
 ## Abstract
 
@@ -51,14 +51,17 @@ The final portion of this analysis aggregated the spatial distribution of these 
 While there were few tweets with spatial data made using the key terms during this timespan, there was, as predicted, a sharp rise in tweets around and shortly following the May 4th disaster, which maintained higher baseline levels for the following days. This is demonstrated in Figure 1
 
 ![temporal](/assets/temporal_plot.png)
+
 Figure 1: Temporal Patterns in Key Word Tweets
 
 This corroborates one's expectations as a clue that a twitter analysis of this type may reflect outside world phenomena. Looking more closely at the subject matter in these tweets paints a clearer picture of the twitter discourse taking place during this time.
 
 ![words](/assets/word_count.png)
+
 Figure 2: Chart of Most Common Words in Metro Tweet
 
 ![network](/assets/word_pairs.png)
+
 Figure 3: Network Map of Metro Tweet Word Pairs
 
 The bar chart in Figure 2 shows what words were most likely to coincide with the key words in tweets made during this timeframe. The most common words found were "lnea," "12," and "cdmx." These show that many of the tweets sampled were about the metro collapse. "Lnea" is a misspelling of the Spanish word "línea," meaning line, as in a metro line, and it was line 12 that collapsed in Mexico City (abbr. CDMX). There are also several other words in the chart that show similar themes, such as "mxico" and "mexico," "accidente," and "tragedia." Most of the words explicitly related to the metro collapse are in Spanish, indicating the Spanish-speaking twitter users were more likely to be discussing the event. The word network in Figure 3 further illustrates these findings, as words like "lnea" and "12" showed a strong degree of mutual occurrence in the tweets. However, there appear to be unrelated threads that were common in the data, and it is unclear what these tweets clusters are about.
@@ -66,14 +69,17 @@ The bar chart in Figure 2 shows what words were most likely to coincide with the
 Taking a geographic perspective on this twitter data, most tweets were taken from urban locations, such as metropolitan Los Angeles, San Francisco, and Dallas/Fort Worth. This is to be expected, as high density locations have more people to tweet. Analyzing hot spots of Twitter data, normalized by population, shows a clearer picture of where CDMX tweets were made, and is shown in Figure 5.
 
 ![activity](/assets/tweet_locations.png)
+
 Figure 4: Map of CDMX Tweet Locations
 
 ![clusters](/assets/cdmx_clusters.png)
+
 Figure 5: Hot-Spot Analysis of Twitter Activity
 
 While most counties had lower-than-average discussion of the metro collapse, there were a few pockets of greater activity, particularly in southern California, The San Francisco Bay area, Colorado's Front Range, Greater Sioux Falls, Oklahoma City, Dallas/Fort Worth, and eastern Idaho. Comparing this with data on Mexican ancestry in the United States shows interesting results. While some places with larger Mexican populations, such as eastern Idaho, saw greater Twitter activity, by and large Twitter activity tends to cluster more with certain urban areas rather than Mexican ancestry. Further analysis is needed to determine what these cluster locations have in common between them.
 
 ![mexican](/assets/mexican_ancestry.png)
+
 Figure 6: Mexican Ancestry in the Western United States (from Social Explorer, Jenks natural breaks with 11 classifications)
 
 ## Unplanned Deviations from the Protocol

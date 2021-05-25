@@ -11,7 +11,8 @@ Replication Authors: Jackson Mumper, Zach Hilgendorf, Joseph Holler, and Peter K
 
 Replication Materials Available [here](https://github.com/jackson-mumper/RE-rosgen).
 
-Created: 27 March 2021 Revised: 27 March 2021
+Created: 27 March 2021
+Revised: 25 May 2021
 
 **Introduction**
 
@@ -65,7 +66,7 @@ Kasprak and I both found that this section of the stream was only slightly entre
 
 However, my calculated value for sinuosity was only 1.00, much lower than the expected minimum value of 1.2 for a stream of this type. While I initially thought this meant my stream could not be classified using the RCS, further inspection reveals that Kasprak found a sinuosity value of 1.15, which while higher than my value, is also below the threshold. Kasprak proceeds to classify the stream as type C anyway, ignoring the slight deviation. Because of this, I have also proceeded with a type C classification for this analysis.
 
-The variable that ultimately led to our different results was slope, for which Kasprak likely the result of my inexperience with river digitization. By drawing the river banks based solely on the slope and relief maps, I often found myself unsure of where these lines were in the landscape. This introduced a lot of noise into the data, affecting where the river appeared to be on the map, as well as the final longitudinal profile. The longitudinal profile, as well as a cross sectional profile of the river, are found below.
+The variable that ultimately led to our different results was slope. This may have been the result of my inexperience with river digitization. By drawing the river banks based solely on the slope and relief maps, I often found myself unsure of how my lines related to the underlying landscape. This introduced a lot of noise into the data, affecting the rivers final location on the map, as well as the final longitudinal profile. The longitudinal profile, as well as a cross sectional profile of the river, are found below.
 
 ![longprofile](/assets/longprofile.png)
 ![cross](/assets/cross_sectional.png)

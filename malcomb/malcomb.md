@@ -34,23 +34,23 @@ The original study compiled data from three sources: Demographic and Health Surv
 ![malcomb_2](assets/table_2.png)
 Figure 1: Inputs of adaptive capacity (from Malcomb et al, Table 2)
 
-While Malcomb does not explicitly state the exact rows and columns from which the input variables in Table 2 were found in each dataset, the tended to be easily identifiable for the DHS variables, with names that were often identical to names in the DHS.
+While Malcomb does not explicitly state the exact data variables from which the indicators in Table 2 were found in each dataset, the tend to be easily identifiable for the DHS variables, with names that were often identical to names in the DHS.
 
 The FEWSNET data used to calculate livelihood sensitivity was aggregated based on livelihood zones. This uses only data from the poor wealth group in their spreadsheets. The four variables used to calculate livelihood sensitivity are:
 1. The percent of food sources from ones own crops, located once cell beneath 'crops' on the table 'SOURCES OF FOOD' at the bottom of the spreadsheet.
 2. The percent found when dividing 'labour etc.' by 'total' from the 'SOURCES OF CASH' table at the bottom of the spreadsheet.
-3. The percent of a households income from the sale fo crops, as a ratio of 'crops' to 'total' in the 'SOURCES OF CASH' table. However, it also remained unclear what the definition of a 'cash crop' was, beyond just any crops that were sold.
+3. The percent of a households' income from the sale of crops, as a ratio of 'crops' to 'total' in the 'SOURCES OF CASH' table. However, it also remained unclear what the definition of a 'cash crop' was, beyond just any crops that were sold.
 4. Disaster coping strategy. Malcomb et al make little reference to what this means or how it was calculated beyond that is is the percent of income that would lead to ecological destruction. Our best guess as to what constitutes this was the total income from wood and tobacco related sources under the 'CROP PRODUCTION' table divided by total income at the bottom of the spreadsheet. That said, due to miscommunication within our replication group, there were internal inconsistencies in how this was calculated in addition to inconsistencies from the unclear methodology in Malcomb et al.
 
 Finally, physical exposure was calculated based on a rasterized layer of estimated flood risk and exposure to drought events.
 
 ### Analytical Specification
 
-The original study was conducted using ArcGIS and STATA, but does not state which versions of these software were used. The replication study uses R.
+The original study was conducted using ArcGIS and STATA, but does not state which versions of these software were used. The replication study uses R 4.0.5 in R-Studio 1.2.5033.
 
 ## Materials and Procedure
 
-The final workflow used in this replication is summarized below. While there is uncertainty as to how closely the matches the workflow of Malcomb et al, this is similar to the narrative workflow outlined in the paper.
+The final workflow used in this replication is summarized below. While there is uncertainty as to how closely this matches the workflow of Malcomb et al, this is similar to the narrative workflow outlined in the paper.
 
 1. Download traditional authorities: MWI_adm2.shp
 2. Add TA and LZ ids to DHS clusters
@@ -76,6 +76,10 @@ The final workflow used in this replication is summarized below. While there is 
 22. Reclassify drought raster into quantiles
 23. Add all RASTERs together to calculate final output:  final = (40 - geo) * 0.40 + drought * 0.20 + flood * 0.20 + LHZ * 0.20
 24. Use zonal statistics to aggregate raster to TA geometry for final calculation of vulnerability in each traditional authority
+
+Our plan for comparing our analysis results to that of Malcomb et al involved:
+
+1. 
 
 ## Replication Results
 
@@ -116,7 +120,6 @@ The differences in vulnerability were widespread, also with little geographic cl
 
 Due to the lack of replicability standards in publication, there were many areas wherein the methodology described above diverged from that of Malcomb et al, and there were also slight deviations in this analysis from that workflow. Potential methodological deviations included:
 
-- Completing the research in R-Studio and QGIS rather than STATA and ArcGIS.
 - Misapplication of the original data. Variable names, particularly for livelihood sensitivity, and the steps taken to get the input variables from the initial data were often unclear and difficult to match.
 - Multiplying capacity scores by 20. The methodology presented in Malcomb et al implies adaptive capacity scores ranging from 0-1. However, the published legend displays scores well into the teens. It's unclear how this range of values was acquired. In order to replicate it, we multiplied adaptive capacity scores by 20. However, it is unlikely this was done by the original researchers.
 - Assumptions about the methodological process. There were many areas where the report described a process without explicitly describing the methods. While the exact methods were often implied, leaving any room for interpretation means that we may have made other deviations from the protocol without even realizing.

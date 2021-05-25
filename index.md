@@ -3,7 +3,7 @@ title: Main Page
 layout: default
 ---
 # Jackson Mumper Open Source GIS Portfolio
-Hi, I'll write a short bio later. In the meantime, welcome to my GIS page! At the moment this site is my final portfolio for Geog 323: Open Source GIScience. In the future, it will be updated with other projects that I have worked on.
+Welcome to my GIS page! At the moment this site is my final portfolio for Geog 323: Open Source GIScience. In the future, it will be updated with other projects that I have worked on.
 
 To see my work from Geog 351: Remote Sensing and Land Use in Sub-Saharan Africa, click [here](https://sites.middlebury.edu/jmumpergeog351/).
 
@@ -18,6 +18,7 @@ To see my work from Geog 351: Remote Sensing and Land Use in Sub-Saharan Africa,
 - [Riparian Trees and Flooding in Dar es Salaam](dsm_trees/dsm_trees.md)
 - [Replication of Malcomb et al Climate Change Vulnerability in Malawi](malcomb/malcomb.md)
 - [Analysis of Twitter Activity during CDMX Metro Collapse](twitter/twitter.md)
+- [Replication of Kang et al COVID-19 Healthcare Resources in Chicago](chicago/chicago.md)
 
 
 ## Blog Posts
