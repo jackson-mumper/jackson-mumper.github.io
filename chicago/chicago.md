@@ -5,7 +5,7 @@ title: Replication of Kang et al COVID-19 Healthcare Resources in Chicago
 
 **Introduction**
 
-In their 2020 paper, Kang et al conduct a vulnerability model of hospital capacity and accessibility in relation to the COVID-19 pandemic in Illinois. By using largely open source methods and data, they use Cyber GIS to calculate hospital catchment areas based on driving time to hospitals, then by calculating a bed-to-population ratio for each hospital location. The final products are two hospital accessibility maps, one of Illinois and one of Chicago, aggregated based on a hexagonal raster.
+In their 2020 paper, Kang et al conduct a vulnerability model of hospital capacity and accessibility in relation to the COVID-19 pandemic in Illinois. By using largely open source methods and data, they use CyberGIS to calculate hospital catchment areas based on driving time, followed by a bed-to-population ratio for each hospital location. The final products ad re two hospital accessibility maps, one of Illinois and one of Chicago, aggregated based on a hexagonal raster.
 
 The recent publication of the source code from this study in a Jupyter notebook, as well as their use of widely available datasets like OpenStreetMap, allows for both public reproduction of their methods, and alteration of their methods when changes can/should be made. This replication has two main goals:
 
@@ -49,18 +49,17 @@ Figure 2: Adjusted results for network design improvements
 ![network_fix_new_weights](/assets/network_fix_new_weights.png)
 Figure 3: Adjusted results from Part 1 with new weighting schema
 
-The adjustment from Figure 1 to Figure 2 results in some noteworthy changes in the distribution of hospital accessibility across the city. In particular, areas of the highest accessibility move from center of the city to its northwestern edge. It's unclear why this change took place, as if anything, moving hospitals away from the city's edge should do the opposite. However, in the original map, this part of the city, as well as what appear to be hospitals in it, are represented in a way inconsistent with the rest of the map. It's unclear how the authors calculated hospital accessibility in this part of the city or what these colors mean. However, the extension of the road network does make a meaningful difference in the final interpretation.
+The adjustment from Figure 1 to Figure 2 results in some noteworthy changes in the distribution of hospital accessibility across the city. In particular, areas of the highest accessibility move from center of the city to its northwestern edge. It's unclear why this change took place, as if anything, moving hospitals away from the city's edge should do the opposite. However, in the original map, this part of the city, as well as what appear to be hospitals in it, are represented in a way inconsistent with the rest of the map. It's unclear how the authors calculated hospital accessibility in this part of the city or what the symbology in this region represents. However, the extension of the road network does make a meaningful difference in the final interpretation.
 
+The change from Figure 2 to Figure 3, however, is much less noticeable. While the new weighting scheme does change the degree of hospital accessibility in certain parts of Chicago, the overall trends do not change. This shows that while a theoretical basis for the weights could be useful, it is not necessary so long as they decrease as driving time increases. The results are thus not widely affected by the modifiable areal unit problem, providing efficacy to the authors' conclusions.
+
+Overall, replication of this study proved much easier than other replications from this class. The compilation of source code in a Jupyter notebook proved to be an invaluable tool, particularly with regard to modifying the results. There were still, however, a few sources of unresolved confusion in the replication. For example, a comment explaining that the purpose of one line of code was to "exclude the weirdo." In addition, some of the data sources, such as the hexagon layer, are automatically loaded into the Jupyter notebook and it is unclear from where they were derived.
 
 The final GitHub repository for this replication can be found [here](https://github.com/jackson-mumper/RP-Kang).
 
-include images of findings (maps, graphs) and link to your final repository for the reproduction. Discuss what you learned from the reproduction attempt, especially any knowledge, insight, or uncertainty that was encoded in the repository or discovered in the reproduction but not explained in the published paper.
-
 **Conclusion**
 
-with emphasis on the significance of the reproduction study you just completed. Was the study reproducible, and has the reproduction study increased, decreased, or otherwise refined your belief in the validity of the original study? Conclude with any insights, priorities, or questions for future research.
-
-
+This reproduction study of Kang et al's hospital accessibility analysis demonstrates some important aspects of what open source movements in GIS seek to accomplish. While the original study has useful and meaningful results, publishing the code allows readers to make their own contributions to the research, finding errors in code or conception, which in turn contributes to an ongoing peer review process. In the case of this replication, while the original findings stand overall, some adjustments in execution (namely extending the road network to encompass all relevant hospitals) can provide greater nuance and confidence in the findings.
 
 **References**
 
