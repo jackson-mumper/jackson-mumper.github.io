@@ -9,12 +9,11 @@ April 7, 2021
 
 **Introduction**
 
-This lab focuses on the relationship between riparian trees and flood zones in Dar es Salaam. Along with the countless other benefits of urban vegetation, vegetation around river systems has been observed to [significantly reduce flood levels](https://krex.k-state.edu/dspace/handle/2097/40582). Using Dar es Salaam as a landscape, we wanted to see whether urban wards with higher densities of riparian trees also saw low incidence of flooding. If true, this would lend credence to models of urban resilience through nature-based solutions and provide useful information for planners and developers in the region.
+This lab focuses on the relationship between riparian trees and flood zones in Dar es Salaam. Along with the countless other benefits of urban vegetation, vegetation around river systems has been observed to [significantly reduce flood levels](https://krex.k-state.edu/dspace/handle/2097/40582). Using Dar es Salaam as a landscape, we wanted to see whether urban wards with higher densities of riparian trees coincided with a reduced flood risk. If true, this would lend credence to models of urban resilience through nature-based solutions and provide useful information for planners and developers in the region.
 
 **Data Sources**
 
 Our data sources have been acquired from [OpenStreetMap](https://www.openstreetmap.org/#map=12/-6.8162/39.2804), a community-based mapping project and platform providing open data and emphasizing contributions of local knowledge. One such contribution that has been significant for developing data on Dar es Salaam is the [Ramani Huria](https://ramanihuria.org/en/) project, which trains university students and local community members to create highly accurate maps of their localities. This initiative initially began as a project to accurately map out flood-prone areas in the city, however, it has now expanded to serve as a foundational tool for addressing different social and environmental spheres beyond resilience. We have used this OpenStreetMap data to collect information on flood-prone areas, trees, forests, and rivers for the purposes of our analysis.
-
 
 **Methods**
 
@@ -26,11 +25,11 @@ The full script used in this analysis can be found [here](/assets/dsm_script.sql
 
 **Results**
 
-The scatterplot below illustrates the correlation between riparian trees and incidence of flooding by ward in Dar es Salaam.
+The scatterplot below illustrates the correlation between riparian trees and flood-prone lands by ward in Dar es Salaam.
 
 ![graph](/assets/graph.png)
 
-As shown in the figure, there is actually a positive correlation between riparian trees and flooded areas. This means that wards with higher densities of tree cover near rivers had experienced more flooding than those farther away. This goes against our original hypothesis that riparian trees would reduce flood areas on Dar es Salaam. However, the correlation is weak, and the R^2 value is low enough to warrant further investigation.
+As shown in the figure, there is actually a positive correlation between riparian trees and flooded areas. This means that wards at a greater risk of flooding have a higher density of forest cover than those at a reduced risk. This goes against our original hypothesis that riparian trees would reduce flood areas on Dar es Salaam. However, the correlation is weak, and the R^2 value is low enough to warrant further investigation.
 
 While these data go against traditional understandings of the effects of riparian vegetation on flooding, there are a few aspects of our methodology that might have contributed to this outcome. To start, certain parts of the city that saw greater flooding were closer to the mouth of the river. This tends to be the widest and shallowest section of a river, therefore making it most likely to flood. In addition, forest patches along the river were mostly found downstream, near the coast. Because of this, downstream wards tended to have both the highest incidence of flooding and the largest observed riparian trees, leading to a positive correlation that might not be the result of a causal relationship.
 
@@ -38,7 +37,7 @@ Furthermore, our methods of aggregating data posed as an issue given the nature 
 
 Our analysis only used OSM layers of tree point data and forest polygon data to account for riparian vegetation. However, the presence of other types of land cover, such as parks, cemeteries, or wetlands, may also either contain trees or contribute to lower rates of flooding in a given area. This analysis could be further improved through assessing the ability of different types of land cover to contribute to flood resilience and adding these layers to our model.
 
-Due to the open source nature of OSM, there are also limitations to the accuracy and precision of the river data. The rivers and streams in OSM did not always correspond with flooding, and sometimes streams were disconnected from the rest of the river network. In addition, while ward boundaries often followed rivers, the specific boundaries were rarely a perfect representation of the river centerline. For most analyses this wouldn’t make a difference, but when looking using riparian buffers as refined as 50 meters, this can make a big difference in the end results.
+Due to the open source nature of OSM, there are also limitations to the accuracy and precision of the river data. The rivers and streams in OSM did not always correspond with flood risk, and sometimes streams were disconnected from the rest of the river network. In addition, while ward boundaries often followed rivers, the specific boundaries were rarely a perfect representation of the river centerline. For most analyses this wouldn’t make a difference, but when looking using riparian buffers as refined as 50 meters, this can make a big difference in the end results.
 
 This was also apparent in OSM’s tree data. Locations of individual trees were not collected from each ward. Much of the study area had a forest polygon layer, but not the tree points layer. We originally sought to exclude wards without trees from the analysis by ignoring wards with no riparian trees, but because these wards still did have forest data, they ended up with an undercounted presence of trees.
 
