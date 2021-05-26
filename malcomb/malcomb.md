@@ -24,8 +24,7 @@ The original study is a multi-criteria analysis of vulnerability to Climate Chan
 
 The study region is the country of Malawi. The spatial support of input data includes DHS survey points, Traditional Authority boundaries, and raster grids of flood risk (0.833 degree resolution) and drought exposure (0.416 degree resolution).
 
-The original study was published without data or code, but has detailed narrative description of the methodology. The methods used are feasible for undergraduate students to implement following completion of one introductory GIS course. The study states that its data is available for replication in 23 African countries.
-
+The original study was published without data or code, but has detailed narrative description of the methodology. The methods used are feasible for undergraduate students to implement following completion of one introductory GIS course. The study states that its data is available for replication in 23 African countries. Replication is important as a means of ensuring the efficacy of research findings. It is particularly important for this type of study, where the result is highly variable to a somewhat subject list of inputs.
 
 ### Data Description and Variables
 
@@ -79,7 +78,10 @@ The final workflow used in this replication is summarized below. While there is 
 
 Our plan for comparing our analysis results to that of Malcomb et al involved:
 
-1. 
+1. Exporting published maps from Malcomb into QGIS
+2. Digitizing the maps, creating adaptive capacity and vulnerability maps with encoded quintile scores
+3. Export digitized maps from QGIS into R
+3. Calculating a spearman's rho coefficient comparing the two versions of each map
 
 ## Replication Results
 
@@ -99,7 +101,7 @@ In the case of adaptive capacity, similar results were found as with Malcomb et 
 | 3 | 5 | 43 | 19 | 3 |
 | 4 | 0 | 6 | 30 | 5 |
 
-![diff_ac](/assets/difference4.png)
+![diff_ac](/assets/acdiff_new.png)
 Figure 4: Map of localized differences in adaptive capacity
 
 Spearman's rho coefficients were calculated for both adaptive capacity and vulnerability to determine the divergence of this reproduction from the original Malcomb et al paper. For adaptive capacity, spearman's rho was 0.7870, and for vulnerability, spearman's rho was 0.2194. This shows that while in both cases the results of this study are correlated better than random with Malcomb's results, only in the case of adaptive capacity can one say the reproduction performed well.
@@ -108,13 +110,13 @@ Differences in quantile classifications of adaptive capacity remained small betw
 
 This was not the case, however, for vulnerability. Replicated vulnerability maps upon initial visual inspection seemed to agree with the original findings that areas in southern Malawi were more vulnerable to climate change. However, the replication introduced a lot of noise in the data that's not present in the original report. The difference map of vulnerability, as well as a scatterplot comparison of the two raster maps can be found in Figures 5 and 6.
 
-![diff_vul](/assets/difference5.png)
+![diff_vul](/assets/difference_new.png)
 Figure 5: Difference map of climate change vulnerability
 
 ![scatter_vuln](/assets/difference_scatter.png)
 Figure 6: Scatterplot of Malcomb et al and replication differences in vulnerability
 
-The differences in vulnerability were widespread, also with little geographic clustering. However, their severity indicates a greater degree of methodological divergence with the original paper than for adaptive capacity. This makes sense given the relative ease with which our group was able to identify the DHS variables to use for adaptive capacity, and difficulty in identifying the paper's methodology for ascertaining livelihood sensitivity in particular.
+The differences in vulnerability were widespread, also with little geographic clustering. However, their severity indicates a greater degree of methodological divergence with the original paper than for adaptive capacity. This is particularly worrisome when combined with the fact that this replication almost invariably underestimated vulnerability in the region. This makes sense given the relative ease with which our group was able to identify the DHS variables to use for adaptive capacity, and difficulty in identifying the paper's methodology for ascertaining livelihood sensitivity in particular.
 
 ## Unplanned Deviations from the Protocol
 
