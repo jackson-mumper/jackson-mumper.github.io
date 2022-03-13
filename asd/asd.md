@@ -7,8 +7,8 @@ The Alamosa, Colorado RE-11J School District includes most of Alamosa and some o
 
 As they are representative voting districts, director districts must be redrawn every ten years, following the US Census, to ensure that each has equal population. As of 2019, however, the Alamosa director districts had not been reapportioned since 2001. The images below show the director district maps from 2001.
 
-![old_map_town_zoom](old_town.pdf)
-![old_map_dist_zoom](old_dist.pdf)
+![old_map_town_zoom](old_town-1.png)
+![old_map_dist_zoom](old_dist-1.png)
 
 While they were roughly equal when first drawn, these districts grew unbalanced in the following 20 years, as shown in the table below.
 
