@@ -3,7 +3,7 @@ title: Main Page
 layout: default
 ---
 # Jackson Mumper Open Source GIS Portfolio
-Welcome to my GIS page! At the moment this site is my final portfolio for Geog 323: Open Source GIScience. In the future, it will be updated with other projects that I have worked on.
+Welcome to my GIS page! AThis site is my final portfolio for Geog 323: Open Source GIScience.
 
 To see my work from Geog 351: Remote Sensing and Land Use in Sub-Saharan Africa, click [here](https://sites.middlebury.edu/jmumpergeog351/).
 
