@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: What is Open Source GIScience
 ---
 
