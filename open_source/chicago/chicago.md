@@ -1,6 +1,6 @@
 ---
-layout: default
 title: Replication of Kang et al COVID-19 Healthcare Resources in Chicago
+layout: default
 ---
 
 **Introduction**
