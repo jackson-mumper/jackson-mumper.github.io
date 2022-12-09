@@ -1,8 +1,7 @@
 ---
-layout: page
+layout: default
 title: RE- Spatial-temporal and content analysis of Twitter Data
 ---
-
 
 **Replication of**
 # Spatial, temporal and content analysis of Twitter data

@@ -1,7 +1,9 @@
 ---
-layout: page
+layout: default
 title: Gravity Model of Spatial Interaction
 ---
+
+# Gravity Model of Spatial Interaction
 
 This project involved creating a gravity model of spatial interaction to estimate the coverage extents of hospitals in New England. It does this by assuming people will go to hospitals that are nearest to them and that have more beds. By looking at these three factors, one can create hospital catchment areas that show what hospitals people would be most likely to go to.
 
