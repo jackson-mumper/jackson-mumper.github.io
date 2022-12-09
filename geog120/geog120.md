@@ -1,5 +1,5 @@
 ---
-title: Main Page
+title: Human Geography with GIS
 layout: default
 ---
 

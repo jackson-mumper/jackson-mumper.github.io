@@ -1,9 +1,9 @@
 ---
-title: Main Page
+title: Travel Stories
 layout: default
 ---
 
-#Hiking Woes Part 2: Kol-Tor, Kyrgyzstan
+# Hiking Woes Part 2: Kol-Tor, Kyrgyzstan
 
 It was in late-September that I found myself in Bishkek for the second time. After my first stay in the city I went to a workaway in Karakol, helping run the social media accounts for the town’s premier backpacker hostel. But I left a little earlier than expected as the temperatures dropped, the hiking season ended, and business at the hostel slowed dramatically. I went back to Bishkek, a city I loved at first glance, to waste a few days the start of October, when walnut harvest begins in Arslanbob, a mountain village in Southern Kyrgyzstan. But having already seen most of the Bishkek on my first visit, I had to get creative in finding ways to pass the time, which led me to organize some complex day trips.
 

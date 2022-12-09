@@ -1,5 +1,5 @@
 ---
-title: Main Page
+title: Alamosa School District Project
 layout: default
 ---
 
