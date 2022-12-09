@@ -17,7 +17,8 @@ Welcome to my page! I am a recent graduate from Middlebury College geography maj
 - [Final Portfolio Geog 351: Remote Sensing and Land Use in Sub-Saharan Africa Portfolio](https://sites.middlebury.edu/jmumpergeog351/)
 - [Analysis and Visualization of My Spotify Wrapped 2021](https://jackson-mumper.shinyapps.io/FinalProj/)
 - [Sample Works from Geog 120: Human Geography with GIS](geog120/geog120.md)
-- [Final Project Geog 406: Seminar in Human-Environment Geography](ssaper.pdf)
+- [Final Project for Soci 1001: The 2020 Census ](segregation.pdf)
+- [Final Project Geog 406: Seminar in Human-Environment Geography](ss/ss.md)
 
 ## Music
 - [A Winter Dawn (Original Composition)](https://www.youtube.com/watch?v=7B1KUhbPQP4)

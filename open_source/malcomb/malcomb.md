@@ -149,8 +149,6 @@ Examining this result through a replication and open source lens reveals much gr
 
 ## References
 
-Include any referenced studies or materials in the [AAG Style of author-date referencing](https://www.tandf.co.uk//journals/authors/style/reference/tf_USChicagoB.pdf).
-
 Malcomb, D. W., E. A. Weaver, and A. R. Krakowka. 2014. Vulnerability modeling for sub-Saharan Africa: An operationalized approach in Malawi. Applied Geography 48:17–30. DOI:10.1016/j.apgeog.2014.01.004
 
 Singleton, A. D., S. Spielman and C. Brunsdon (2016) Establishing a framework for Open Geographic Information science. International Journal of Geographical Information Science 30:8, 1507-1521. DOI: 10.1080/13658816.2015.1137579
