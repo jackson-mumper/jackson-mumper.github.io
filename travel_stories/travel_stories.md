@@ -13,15 +13,13 @@ Many of these links are not working because I'm still in the early stages of wri
 
 **[Prologue: Where I've Been, and Why I've Been There]()**
 
+**[A Semi-Post-Covid Travelog: How This Journey Started]()**
+
 **[Taraz]()**
 
 **[Earrings and Queerness: Taraz Part 2]()**
 
-**[A Semi-Post-Covid Travelog: How This Journey Started]()**
-
 **[Ruderal]()**
-
-**[I Am Not An English Teacher]()**
 
 **[Hiking Woes Part 1: Juta, Georgia]()**
 
@@ -29,19 +27,7 @@ Many of these links are not working because I'm still in the early stages of wri
 
 [Hiking Wins](hike_wins/hike_wins.md)
 
-**[American Exceptionalism]()**
-
 **[Russia]()**
-
-**[Stories from Ynitron]()**
-
-**[Moroccan Tea]()**
-
-**[Karakol Hitchhiking]()**
-
-**[Aral Sea]()**
-
-**[Tattoo]()**
 
 **[Deciding To Go Home]()**
 
