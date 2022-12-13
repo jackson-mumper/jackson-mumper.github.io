@@ -8,6 +8,23 @@ layout: default
 After writing so much about the treacherous hikes I did in Juta and Kegeti, I want to balance my stories with some of the many positive hiking experiences I had this trip. I find it much easier and more fun to write about the times when things go wrong, but more often than not everything went according to plan. So I’ve compiled below a list of the five best hikes I did on my six months of travel.
 
 ## 5. Arslanbob Big Waterfall, Kyrgyzstan
+
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="ars1.png" width="300"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="ars2.png" width="300"/>
+            </td>
+            <td style="padding:10px">
+            	<img src="ars3.png" width="300"/>
+            </td>
+        </tr>
+    </table>
+</div>
+
 ![ars1](ars1.png)
 ![ars2](ars2.png)
 ![ars3](ars3.png)
