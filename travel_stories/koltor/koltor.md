@@ -7,6 +7,20 @@ layout: default
 
 It was in late-September that I found myself in Bishkek for the second time. After my first stay in the city I went to a workaway in Karakol, helping run the social media accounts for the town’s premier backpacker hostel. But I left a little earlier than expected as the temperatures dropped, the hiking season ended, and business at the hostel slowed dramatically. I went back to Bishkek, a city I loved at first glance, to waste a few days until the start of October, when walnut harvest begins in Arslanbob, a mountain village in Southern Kyrgyzstan. But having already seen most of the Bishkek on my first visit, I had to get creative in finding ways to pass the time, which led me to organize some complicated day trips.
 
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="burana1.png" width="400"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="burana2.png" width="400"/>
+            </td>
+
+        </tr>
+    </table>
+</div>
+
 ![Burana1](burana1.png) ![Burana2](burana2.png)
 *Burana tower - another Bishkek day trip near Tokmok*
 
@@ -28,6 +42,22 @@ My next ride came much more quickly than the first. I joined an RV with a Europe
 Unlike in Juta, the hike itself was largely uneventful. It began relatively flat, along a river. At first, the trail wide enough to act as a gravel road, but it gradually narrowed as I passed each of the many guesthouses on the left-hand side, though the trail was clearly marked all the way to the lake. I took comfort in knowing that there were so many guesthouses in the area in case it got dark and I needed to spend the night, until I realized they were all closed for the season (or potentially, just closed). After a while, I passed a yurt camp, the one accommodation in the area still functioning, and though I didn’t bring enough warm layers to stay in a yurt, I figured that worst case scenario, it was a better option than sleeping outside.
 
 After the yurt camp, the trail steepened dramatically. I put on some podcasts and tried to keep a steady pace, despite my runny nose and heavy lungs. After a couple hours I made it to the top, where I saw a group of Kyrgyz tourists boating in and enjoying the waters. The view was nice. After some of the hiking in Karakol it was nothing special, and I got the sense it would have been much prettier in either the summer, with more vegetation, or winter, with a blanket of snow. But hikes are never really about the views at the top. I ate the sandwich I had packed, and headed down quickly. After a while I passed the RV couple from before who asked how far the top was. I told them it wasn’t very far. The top of the trail is never far away when you’re going back down.
+
+<div id="image-table">
+    <table>
+	    <tr>
+    	    <td style="padding:10px">
+        	    <img src="kt.png" width="400"/>
+      	    </td>
+            <td style="padding:10px">
+            	<img src="open.png" width="400"/>
+            </td>
+            <td style="padding:10px">
+            	<img src="endofhike.png" width="400"/>
+            </td>
+        </tr>
+    </table>
+</div>
 
 ![Kol-Tor Lake](kt.png)
 ![Open Area](open.png) ![Getting Off The Trail](endofhike.png)
