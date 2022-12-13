@@ -16,7 +16,6 @@ It was in late-September that I found myself in Bishkek for the second time. Aft
             <td style="padding:10px">
             	<img src="burana2.png" width="400"/>
             </td>
-
         </tr>
     </table>
 </div>
