@@ -3,7 +3,7 @@ title: Travel Stories
 layout: default
 ---
 
-## Travel Stories
+# Travel Stories
 
 Below are some stories I've written about my travels from June-November 2022. During this time I visited ten countries: Morocco, Spain, Portugal, The Netherlands, Georgia, Armenia, Kazakhstan, Kyrgyzstan, Uzbekistan, and Azerbaijan. These stories are not written in chronological order, but they are ordered intentionally (i.e. the way I would order these stories as book chapters (no I'm not planning on writing a book)).
 
@@ -27,7 +27,7 @@ Many of these links are not working because I'm still in the early stages of wri
 
 [Hiking Woes Part 2: Kol-Tor, Kyrgyzstan](koltor/koltor.md)
 
-**[Hiking Wins]()**
+[Hiking Wins](hike_wins/hike_wins.md)
 
 **[American Exceptionalism]()**
 
