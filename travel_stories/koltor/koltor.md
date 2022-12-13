@@ -19,8 +19,6 @@ It was in late-September that I found myself in Bishkek for the second time. Aft
         </tr>
     </table>
 </div>
-
-![Burana1](burana1.png) ![Burana2](burana2.png)
 *Burana tower - another Bishkek day trip near Tokmok*
 
 I saw some informational posters in my hostel about guided day tours to Kol-Tor Lake. After doing some extra research, I saw that it was a semi-popular hike, and the pictures looked beautiful. The trailhead was about 50 miles from the city, which made transportation difficult, but I read a couple reports online of solo-travelers doing the hike successfully in one day and making it back to Bishkek for dinner. Plus, I thought, I’d had mostly good experiences hitchhiking thus far, so I was sure I can figure it out. And thus, having not learned my lesson about confusing hikes in Georgia, I loaded up my daypack and set off.
@@ -46,9 +44,6 @@ After the yurt camp, the trail steepened dramatically. I put on some podcasts an
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="kt.png" width="400"/>
-      	    </td>
-            <td style="padding:10px">
             	<img src="open.png" width="400"/>
             </td>
             <td style="padding:10px">
@@ -57,9 +52,7 @@ After the yurt camp, the trail steepened dramatically. I put on some podcasts an
         </tr>
     </table>
 </div>
-
 ![Kol-Tor Lake](kt.png)
-![Open Area](open.png) ![Getting Off The Trail](endofhike.png)
 *Views of Kol-Tor Lake and surrounding hike*
 
 It was only once I got off the mountain and returned to the trailhead that I began to worry about finding my way back to Bishkek. It was about 5pm and the sun was already starting to recede behind the mountains. And while there were several guesthouses in the area, they were all closed. I was still a long way from Kegeti, let alone Tokmok or Bishkek. I found one store that was open, and went inside to ask for help, either on how to get back to Bishkek, or if that didn’t work, for a floor to sleep on that night.
