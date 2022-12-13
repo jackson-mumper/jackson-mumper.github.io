@@ -115,5 +115,6 @@ The only issue was that I did want to do the trek. I’m not much for camping or
 
 Even though we skipped the valley that most describe as the best part of the hike, it was still magnificent. We left Karakol well before sunrise and set off on a long and rocky jeep ride (frequently bumping our heads into every part of the vehicle). From there, we hiked for several hours through woods, grasslands, boulders, and a creek, stopping often for water, to catch our breath, and admire the scenery. The trail was steep and long, and by the end it was practically rock climbing, but the view at the top of the pristine turquoise lake surrounded by black gravel peaks was serene and breathtaking (along with the altitude). This hike was a challenge, and I’m not sure if doing just the one-day version made it easier or harder, but it proved hugely rewarding and immensely beautiful.
 
+---
 
 Looking back, it seems I did all my hiking in only two countries. Nonetheless, for any hiking lovers, Georgia and Kyrgyzstan both offer some of the most incredible mountain hikes and vistas I’ve ever seen, and I can not recommend them enough. Just go in a group, try not to lose the trail, and take a sleeping bag just in case things go wrong.
