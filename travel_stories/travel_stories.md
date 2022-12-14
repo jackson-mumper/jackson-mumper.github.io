@@ -15,9 +15,9 @@ Many of these links are not working because I'm still in the early stages of wri
 
 **[A Semi-Post-Covid Travelog: How This Journey Started]()**
 
-**[Taraz]()**
+[Taraz](taraz/taraz.md)
 
-**[Earrings and Queerness: Taraz Part 2]()**
+**[Queer in the Ears: Taraz Part 2]()**
 
 **[Ruderal]()**
 
