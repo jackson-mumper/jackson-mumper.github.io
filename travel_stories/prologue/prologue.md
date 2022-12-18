@@ -21,25 +21,23 @@ I asked the folks at ARISC, the organization sponsoring the Georgia fellowship, 
 
 At the point I left the States, that was as much of my trip as I had planned. I had a vague idea of the places I wanted to visit in Central Asia, and an even vaguer idea that I might go to Southeast Asia after I was ‘done’ in the -stans. But only time would tell how things would unfold.
 
---
+---
 
 Here’s how things unfolded:
 
 Country | Days | Total Days
-Morocco | 7 | 7
-Spain | 5 | 5
-Portugal | 6 | 6
-The Netherlands | 1 | 1
-Georgia | 25 | 25
-Armenia | 3 | 3
-Georgia | 12 | 37
-Kazakhstan | 28 | 28
-Kyrgyzstan | 39 | 39
-Uzbekistan | 28 | 28
-Kazakhstan | 4 | 32
-Azerbaijan | 7 | 7
-Kazakhstan | 9 | 41
-||
-Total | 184 |
+Morocco 🇲🇦| 7 | 7
+Spain 🇪🇸| 5 | 12
+Portugal 🇵🇹| 6 | 18
+The Netherlands 🇳🇱| 1 | 19
+Georgia 🇬🇪| 25 | 44
+Armenia 🇦🇲| 3 | 47
+Georgia 🇬🇪| 12 (37 total) | 59
+Kazakhstan 🇰🇿| 28 | 87
+Kyrgyzstan 🇰🇬| 39 | 126
+Uzbekistan 🇺🇿| 24 | 150
+Kazakhstan 🇰🇿| 4 (32 total) | 154
+Azerbaijan 🇦🇿| 7 | 161
+Kazakhstan 🇰🇿| 9 (41 total) | 170
 
 Thank you for reading my page. I’m excited to share with you some of the stories, places, and people that made this adventure happen.
