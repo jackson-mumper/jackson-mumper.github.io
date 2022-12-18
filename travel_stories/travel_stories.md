@@ -11,7 +11,7 @@ Many of these links are not working because I'm still in the early stages of wri
 
 *Note: if you are a potential employer who has found this page from my portfolio, please note these are private stories, intentionally left inaccessible from my main portfolio page, intended only to be shared among my friends and family. Please return to my primary portfolio page [here](https://jackson-mumper.github.io).*
 
-**[Prologue: Where I've Been, and Why I've Been There]()**
+[Prologue: Where I've Been, and Why I've Been There](prologue/prologue.md)
 
 **[A Semi-Post-Covid Travelog: How This Journey Started]()**
 
