@@ -28,19 +28,19 @@ At the point I left the States, that was as much of my trip as I had planned. I 
 
 Here’s how things unfolded:
 
-Country | Days | Total Days
-Morocco 🇲🇦| 7 | 7
-Spain 🇪🇸| 5 | 12
-Portugal 🇵🇹| 6 | 18
-The Netherlands 🇳🇱| 1 | 19
-Georgia 🇬🇪| 25 | 44
-Armenia 🇦🇲| 3 | 47
-Georgia 🇬🇪| 12 (37 total) | 59
-Kazakhstan 🇰🇿| 28 | 87
-Kyrgyzstan 🇰🇬| 39 | 126
-Uzbekistan 🇺🇿| 24 | 150
-Kazakhstan 🇰🇿| 4 (32 total) | 154
-Azerbaijan 🇦🇿| 7 | 161
-Kazakhstan 🇰🇿| 9 (41 total) | 170
+Country | Days | Total Days | Cities
+Morocco 🇲🇦| 7 | 7 | Marrakech, Rabat
+Spain 🇪🇸| 5 | 12 | Sevilla
+Portugal 🇵🇹| 6 | 18 | Lisbon
+The Netherlands 🇳🇱| 1 | 19 | Amsterdam
+Georgia 🇬🇪| 25 | 44 | Tbilisi, Lagodekhi, Qazbegi
+Armenia 🇦🇲| 3 | 47 | Yerevan
+Georgia 🇬🇪| 12 (37 total) | 59 | Tbilisi, Sighnaghi, Gori
+Kazakhstan 🇰🇿| 28 | 87 | Astana, Taraz, Almaty
+Kyrgyzstan 🇰🇬| 39 | 126 | Bishkek, Karakol, Osh, Jalal-Abad, Arslanbob
+Uzbekistan 🇺🇿| 24 | 150 | Fergana, Tashkent, Samarkand, Bukhara, Khiva, Nukus
+Kazakhstan 🇰🇿| 4 (32 total) | 154 | Aktau
+Azerbaijan 🇦🇿| 7 | 161 | Baku, Quba
+Kazakhstan 🇰🇿| 9 (41 total) | 170 | Shymkent, Turkestan, Almaty
 
 Thank you for reading my page. I’m excited to share with you some of the stories, places, and people that made this adventure happen.
