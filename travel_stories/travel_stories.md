@@ -17,7 +17,7 @@ Many of these links are not working because I'm still in the early stages of wri
 
 [Taraz](taraz/taraz.md)
 
-**[Queer in the Ears: Taraz Part 2]()**
+**[Queer in the Ears: Taraz Part 2](ears/ears.md)**
 
 **[Ruderal]()**
 
