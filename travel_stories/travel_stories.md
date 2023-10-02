@@ -19,7 +19,7 @@ Many of these links are not working because I'm still in the early stages of wri
 
 [Queer in the Ears: Taraz Part 2](ears/ears.md)
 
-**[Ruderal]()**
+[Ruderal](https://urbanassemblage.iliauni.edu.ge/jackson-freeman-mumper-2/)
 
 **[Hiking Woes Part 1: Juta, Georgia]()**
 
