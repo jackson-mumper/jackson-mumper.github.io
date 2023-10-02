@@ -70,12 +70,10 @@ In retrospect, this kid seemed genuinely curious. He grew up in a remote village
 
 I had dinner at my homestay that night with a lovely straight couple from the States, Iulia and Aseef, who were in the early stages of their year-long travel journey. Aseef wore one earring and a nose-ring. Curious how unique my experiences had been, I asked him if he'd encountered any hostility because of his piercings. He laughed and told me about a taxi ride he'd with an older man who was very upset by his piercings, repeatedly gesturing for him to rip them out while the other passengers grew agitated by the old man's preachiness. I realized as he talked that this experience didn't seemed to phase him. He told the story lightheartedly, as though he was recounting ordering the wrong item in a restaurant. Just another hiccup of culture shock. Maybe my anxiety wasn't just that people would think I was gay, but that they'd be correct. I told Aseef and Iulia about my earring experiences - the Taraz workaway, the Bishkek taxi stand, and the kid from that afternoon - trying, but probably failing, to maintain the same unaffected posture. The response I got was not the chuckle I had hoped for, but looks of mild concern, and Aseef asked me why, given the risks that came with being LGBT in Central Asia, I had wanted to visit at all.
 
-<div style="text-align: center;">
-
-![geobee](geobee.png)
-
-</div>
-*2014*
+<p align="center">
+  ![geobee](geobee.png)
+</p>
+*Jackson in 2014*
 
 I hadn't considered this before, and I was a bit flustered when I tried to answer. But in retrospect, this question reframed how I approached my journey. I didn't want the story of my time abroad to focus on my personal struggles as a gay American, and the awful times I dealt with homophobia in this terrible place where *I'm* illegal. Shocking: a wealthy white guy travels to Asia to experience a different culture, and the culture is different than he's used to! I did my research and I knew the risks before I left. And I'm grateful I was able to take these risks and still be reasonably certain of my safety (if things got bad, I'd have just bought a flight home). After I took a moment to collect my thoughts, I told Aseef that despite the risks, I wasn't going to let my sexuality stop me from immersing myself in a place that's I've hoped to visit for nearly a decade, about as long as I've known I was gay. And as I pondered this question more over time, I realized that if I were to write off the whole region as some sort of homophobic dystopia, it would be a disservice to Ruslan and the other queer friends I'd made in Central Asia, as well as the people and organizations fighting the uphill battle to make their communities more welcoming. No culture is a monolith, and despite being broadly queerphobic, Central Asia has queer subcultures that deserve recognition.
 
