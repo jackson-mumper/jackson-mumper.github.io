@@ -87,7 +87,6 @@ I hadn't considered this before, and I was a bit flustered when I tried to answe
         </tr>
     </table>
 </div>
-![geobee](geobee.png)\n
 *2014 and 2022*
 
 My primary goals for travel are always to have fun and try new things. But on a multi-month adventure, I found it useful to have some side quests. One of these was to get better at Russian. But as time passed and I had more experiences that challenged how I view my gayness, I developed another side quest: to spend some time around gay people and in gay spaces. This was partly a survival mechanism, but also a curiosity about what queer culture looks like in a such repressive context. Are their lives as miserable as Google searches make them out to be? How do they find each other and build community?
