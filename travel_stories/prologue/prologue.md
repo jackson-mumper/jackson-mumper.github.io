@@ -32,12 +32,12 @@ Country | Days | Total Days | Cities
 Morocco 🇲🇦| 7 | 7 | Marrakech, Rabat
 Spain 🇪🇸| 5 | 12 | Sevilla
 Portugal 🇵🇹| 6 | 18 | Lisbon
-The Netherlands 🇳🇱| 1 | 19 | Amsterdam
+Netherlands 🇳🇱| 1 | 19 | Amsterdam
 Georgia 🇬🇪| 25 | 44 | Tbilisi, Lagodekhi, Qazbegi
 Armenia 🇦🇲| 3 | 47 | Yerevan
 Georgia 🇬🇪| 12 (37 total) | 59 | Tbilisi, Sighnaghi, Gori
 Kazakhstan 🇰🇿| 28 | 87 | Astana, Taraz, Almaty
-Kyrgyzstan 🇰🇬| 39 | 126 | Bishkek, Karakol, Osh, Jalal-Abad, Arslanbob
+Kyrgyzstan 🇰🇬| 39 | 126 | Bishkek, Karakol, Jalal-Abad, Osh, Arslanbob
 Uzbekistan 🇺🇿| 24 | 150 | Fergana, Tashkent, Samarkand, Bukhara, Khiva, Nukus
 Kazakhstan 🇰🇿| 4 (32 total) | 154 | Aktau
 Azerbaijan 🇦🇿| 7 | 161 | Baku, Quba
