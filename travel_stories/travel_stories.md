@@ -7,9 +7,9 @@ layout: default
 
 Below are some stories I've written about my travels from June-November 2022. During this time I visited ten countries: Morocco, Spain, Portugal, The Netherlands, Georgia, Armenia, Kazakhstan, Kyrgyzstan, Uzbekistan, and Azerbaijan. These stories are not written in chronological order, but they are ordered intentionally (i.e. the way I would order these stories as book chapters (no I'm not planning on writing a book)).
 
-Many of these links are not working because I'm still in the early stages of writing. Instead, it's a list of story ideas that I'd like to write, and the few working links are the one's I've gotten around to writing. I'll update the links as I finish stories, so check back here for updates :)
+The list of stories below includes links to all the stories that I've finished and uploaded, and placeholder links to stories I want to write or am still drafting (unfinished projects are crossed out). Check back here for the occasional update :)
 
-*Note: if you are a potential employer who has found this page from my portfolio, please return to my primary portfolio page [here](https://jackson-mumper.github.io).*
+*Note: if you are a potential employer who has found this page, please return to my primary portfolio page [here](https://jackson-mumper.github.io).*
 
 [Prologue: Where I've Been, and Why I've Been There](prologue/prologue.md)
 
@@ -28,6 +28,8 @@ Many of these links are not working because I'm still in the early stages of wri
 [Hiking Woes Part 2: Kol-Tor, Kyrgyzstan](koltor/koltor.md)
 
 [Hiking Wins](hike_wins/hike_wins.md)
+
+~~~[Aral]()~~~
 
 ~~~[Russia]()~~~
 
