@@ -3,7 +3,7 @@ title: Travel Stories
 layout: default
 ---
 
-# Queer in the Ears: Taraz Part 2
+# Gay Travels Part 2: Ears
 
 
 While my experience in Taraz was the most jarring encounter I had with homophobia while traveling, it wasn't the first.
