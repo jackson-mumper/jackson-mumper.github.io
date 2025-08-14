@@ -10,7 +10,7 @@ Welcome to my GIS Portfolio! After I graduated from Middlebury College with a BA
 ## Projects
 - [Redistricting the Alamosa School District](asd/asd.md)
 Updating a rural Colorado school district's director district boundaries after the 2020 census, and mapping the new boundaries in QGIS.
-- [Mapping Potential Hiding Zones for Jet Lag: The Game, Hide and Seek Transit Game](MAKE THIS)
+- [Mapping Potential Hiding Zones for Jet Lag: The Game, Hide and Seek Transit Game](hide_and_seek/hide_and_seek.md)
 Mapping areas within 0.25 miles of transit stations in central Portland, OR for a game of hide and seek.
 - [Ruderal Gardens, Urban Parks, and the Aesthetics of Nature](https://urbanassemblage.iliauni.edu.ge/jackson-freeman-mumper-2/)
 An essay on different types of natural spaces for the Tbilisi as and Urban Assemblage project.
