@@ -4,6 +4,8 @@ layout: default
 ---
 # Jackson Mumper
 
+This site is still under construction!
+
 ## About Me
 Welcome to my GIS Portfolio! After I graduated from Middlebury College with a BA in geography in 2022, I traveled for nine months in the South Caucasus, Central Asia, and Mexico. When I got back, I worked as a geospatial data analyst at [Fraym](https://fraym.io/) for two years. I am experienced in QGIS, python, and R-studio, and passionate about applying these skills and a social science understanding in a variety of contexts, including international development, urban planning, and public health projects. I love travel, pop music, cats, and coffee shops.
 
@@ -26,5 +28,3 @@ An essay on different types of natural spaces for the Tbilisi as and Urban Assem
 ## Music
 - [My Substack](https://jmumps.substack.com/), for travel stories and my thoughts on pop music.
 - [A Winter Dawn](https://www.youtube.com/watch?v=7B1KUhbPQP4) (Original Composition, 2018)
-
-![me](me.png)
