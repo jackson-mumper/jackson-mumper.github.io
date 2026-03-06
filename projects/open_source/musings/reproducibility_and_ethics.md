@@ -12,3 +12,5 @@ Some questions that I would like to see discussed in class tomorrow would be:
 - To what extent does the importance of public health outweigh the right to privacy?
 - Do you agree with Mei-Po Kwan's point that COVID mitigation efforts should not take a top-down approach?
 - What would bottom-up COVID mitigation look like?
+
+[back](../)

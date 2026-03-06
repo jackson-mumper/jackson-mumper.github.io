@@ -156,3 +156,5 @@ Singleton, A. D., S. Spielman and C. Brunsdon (2016) Establishing a framework fo
 Tate, E. 2013. Uncertainty Analysis for a Social Vulnerability Index. Annals of the Association of American Geographers 103 (3):526–543. doi:10.1080/00045608.2012.700616.
 
 Thank you to Professor Joe Holler, Kufre Udoh, and the rest of the Geog323 class for the collaborative spirit and aid in this project. Particular thanks to, [Arielle Landau](alandaux.github.io), [Evan Killion](evankilli.github.io), [Steven Montilla-Morantes](stevenmontilla.github.io), [Sanjana Roy](sanjana-roy.github.io), and [Maddie Tango](mtango99.github.io).
+
+[back](../)

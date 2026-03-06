@@ -5,8 +5,6 @@ layout: default
 # Jackson Mumper Open Source GIS Portfolio
 Welcome to my GIS page! This site is my final portfolio for Geog 323: Open Source GIScience.
 
-To see my work from Geog 351: Remote Sensing and Land Use in Sub-Saharan Africa, click [here](https://sites.middlebury.edu/jmumpergeog351/).
-
 
 ## Course Website
 [Course website](https://gis4dev.github.io/)
@@ -29,5 +27,4 @@ To see my work from Geog 351: Remote Sensing and Land Use in Sub-Saharan Africa,
 - [Humanitarian GIS](musings/humanitarian_gis.md)
 - [Reproducibility and Ethics](musings/reproducibility_and_ethics.md)
 
-
-![cat](cat.png)
+[back](../)

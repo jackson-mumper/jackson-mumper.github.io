@@ -49,3 +49,5 @@ There are a few other adjustments I would make in future iterations of this anal
 - [Dartmouth Hospital Service Areas](https://atlasdata.dartmouth.edu/downloads/supplemental#boundaries)
 - [ACS Reports 2018 5-Year Average Aggregated by Prof. Joe Holler Available Here](https://gis4dev.github.io/lessons/02a_gravitymodel.html)
 - [US State Shapefiles](https://www.weather.gov/gis/USStates)
+
+[back](../)

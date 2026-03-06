@@ -49,4 +49,4 @@ Although this methodology is flawed, further investigation with more robust tech
 
 A full, interactive map of riparian trees, riparian buffers, flood zones, and ward boundaries in our study region can be found [here](https://sanjana-roy.github.io/PostGISProject/assets/index.html#10/-6.8439/39.2679).
 
-[Return home](https://jackson-mumper.github.io)
+[back](../)

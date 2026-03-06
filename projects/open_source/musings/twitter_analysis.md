@@ -16,3 +16,5 @@ Malcomb, D. W., E. A. Weaver, and A. R. Krakowka. 2014. Vulnerability modeling f
 National Academies of Sciences, Engineering, and Medicine. 2019. Reproducibility and Replicability in Science. Washington, D.C.: National Academies Press. DOI: 10.17226/25303
 
 Wang, Z., X. Ye, and M. H. Tsou. 2016. Spatial, temporal, and content analysis of Twitter for wildfire hazards. Natural Hazards 83 (1):523–540.
+
+[back](../)
