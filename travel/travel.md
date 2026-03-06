@@ -24,8 +24,6 @@ layout: default
     </table>
 </div>
 
-* * *
-
 ### Mexico 2024
 
 <div id="image-table">
@@ -43,8 +41,6 @@ layout: default
         </tr>
     </table>
 </div>
-
-* * *
 
 ### El Salvador 2023
 
@@ -64,11 +60,10 @@ layout: default
     </table>
 </div>
 
-* * *
-
 ### Gap Year 2022-2023
 
-<a href="/gap_year/gap_year.md">
+[See more!](gap_year/gap_year.md)
+
 <div id="image-table">
     <table>
 	    <tr>
@@ -84,6 +79,5 @@ layout: default
         </tr>
     </table>
 </div>
-</a>
 
 [back](../)

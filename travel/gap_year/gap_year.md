@@ -3,12 +3,9 @@ title: Travel Stories
 layout: default
 ---
 
-# Gap Year
+### Overview
 
-Below are some stories I've written about my travels from June-November 2022. During this time I visited ten countries: Morocco, Spain, Portugal, The Netherlands, Georgia, Armenia, Kazakhstan, Kyrgyzstan, Uzbekistan, and Azerbaijan. These stories are not written in chronological order, but they are ordered intentionally (i.e. the way I would order these stories as book chapters (no I'm not planning on writing a book)).
-
-The list of stories below includes links to all the stories that I've finished and uploaded, and placeholder links to stories I want to write or am still drafting (unfinished projects are crossed out). Check back here for the occasional update :)
-
+*Written overview of my trip*
 
 ### The Itinerary
 
@@ -33,34 +30,42 @@ Mexico 🇲🇽| 55 | 225 | Puerto Vallarta, Guadalajara, Guanajuato, Mexico Cit
 
 *I want to make a map of my trip to include here as well. Stay tuned!*
 
+### Photography
+
+*Selected iPhone photography from the trip, on another page*
+
 ### Selected Writing:
 
-During the couple months I was back in the States between Central Asia and Mexico, I wrote some stories about my trip. I've returned to writing and editing these a few times since then, but the memories are already quite fuzzy. These aren't all happy stories. For as much as I enjoyed and valued this time in my life, travel always comes with challenges, and I found it easier to write about the handful of times the trip didn't go according to plan, than the many many times when it did. Some of the links below are broken. These are stories I would like to get around to writing in the future. Stay tuned!
+During the couple months I was back in the States between Central Asia and Mexico, I wrote some stories about my trip. I've returned to writing and editing these a few times since then, but the memories are already quite fuzzy. These aren't all happy stories. For as much as I enjoyed and valued this time in my life, travel always comes with challenges, and I found it easier to write about the handful of times the trip didn't go according to plan, than the many many times when it did. Some of the links below are ~~crossed out~~. These are stories I would like to get around to writing in the future. Stay tuned!
 
 [Prologue: Why Central Asia?](prologue/prologue.md)
 
-A Semi-Post-Covid Travelog: How This Journey Started
+~~A Semi-Post-Covid Travelog: How This Journey Started~~
 
 Gay Travels Part 1: Taraz
+<a href="https://jmumps.substack.com/p/travel-stories-taraz" target="_blank">Gay Travels Part 1: Taraz</a>
 
 Gay Travels Part 2: Ears
+<a href="https://jmumps.substack.com/p/travel-stories-ears-and-other-gay" target="_blank">Gay Travels Part 2: Ears and Other Gay Things</a>
 
-Gay Travels Part 3: Aktau Rocks and an Almaty Story
+<a href="https://jmumps.substack.com/p/travel-stories-aktau-rocks-and-an" target="_blank">Gay Travels Part 3: Aktau Rocks and an Almaty Story</a>
 
-Gay Travels Part 4: Puerto Vallarta
+~~Gay Travels Part 4: Puerto Vallarta~~
 
-[Ruderal](https://urbanassemblage.iliauni.edu.ge/jackson-freeman-mumper-2/)
+<a href="https://urbanassemblage.iliauni.edu.ge/jackson-freeman-mumper-2/" target="_blank">Ruderal Gardens, Urban Parks, and the Aesthetics of Nature in Tbilisi, Georgia</a>
 
-[Hiking Woes Part 1: Juta, Georgia]()
+~~Hiking Woes Part 1: Juta, Georgia~~
 
 [Hiking Woes Part 2: Kol-Tor, Kyrgyzstan](koltor/koltor.md)
 
 [Hiking Wins](hike_wins/hike_wins.md)
 
-Aral
+~~Little Moments of Cultural Shock~~
 
-Russia
+~~The Aral Sea~~
+
+~~Russia~~
 
 [Deciding To Go Home](home/home.md)
 
-### Photography
+[back](../)
