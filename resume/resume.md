@@ -7,4 +7,4 @@ layout: default
 
 Just copy/paste it into here w/ a download link
 
-[back](./)
+[back](../)

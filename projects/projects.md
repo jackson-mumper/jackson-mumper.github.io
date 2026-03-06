@@ -45,4 +45,4 @@ Updating a rural Colorado school district’s director district boundaries after
 - [Sample Works from Geog 120: Human Geography with GIS](geog120/geog120.md)
 - [Final Project for Soci 1001: The 2020 Census](segregation.pdf)
 
-[back](./)
+[back](../)

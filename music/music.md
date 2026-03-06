@@ -31,4 +31,4 @@ Composed for and performed by my high school music studio, under the instruction
 
 Composed for Musc 309: Advanced Composition and read by the Jupiter Quartet. Arranged for string quartet, 2020.
 
-[back](./)
+[back](../)

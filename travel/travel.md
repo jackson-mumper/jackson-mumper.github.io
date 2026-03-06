@@ -15,4 +15,4 @@ Little paragraph about how I love to travel, describing trips I've taken, explai
 
 ### Gap Year 2022-2023
 
-[back](./)
+[back](../)
