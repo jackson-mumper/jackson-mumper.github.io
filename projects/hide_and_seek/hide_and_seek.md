@@ -9,4 +9,4 @@ The YouTube channel [Jet Lag: The Game](https://www.youtube.com/@jetlagthegame) 
 
 ![final_map](final_map.png)
 
-*Note that the Google Maps basemap was used for convenience (many of the seeking questions require Google Maps), but is public domain.*
+*Note that the Google Maps basemap was used for convenience (many aspects of gameplay rely on Google Maps in particular), but this basemap is not public domain.*

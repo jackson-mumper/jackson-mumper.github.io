@@ -7,24 +7,14 @@ layout: default
 This site is still under construction!
 
 ## About Me
-Welcome to my GIS Portfolio! After I graduated from Middlebury College with a BA in geography in 2022, I traveled for nine months in the South Caucasus, Central Asia, and Mexico. When I got back, I worked as a geospatial data analyst at [Fraym](https://fraym.io/) for two years. I am experienced in QGIS, python, and R-studio, and passionate about applying these skills and a social science understanding in a variety of contexts, including international development, urban planning, and public health projects. I love travel, pop music, cats, and coffee shops.
+Hello! Welcome to my site!
 
-## Projects
-- [Redistricting the Alamosa School District](asd/asd.md)
-Updating a rural Colorado school district's director district boundaries after the 2020 census, and mapping the new boundaries in QGIS.
-- [Mapping Potential Hiding Zones for Jet Lag: The Game, Hide and Seek Transit Game](hide_and_seek/hide_and_seek.md)
-Mapping areas within 0.25 miles of transit stations in central Portland, OR for a game of hide and seek.
-- [Ruderal Gardens, Urban Parks, and the Aesthetics of Nature](https://urbanassemblage.iliauni.edu.ge/jackson-freeman-mumper-2/)
-An essay on different types of natural spaces for the Tbilisi as and Urban Assemblage project.
+I grew up in Alamosa, Colorado, a town of about 10,000 people, 7,500 feet of altitude, and 30 miles of distance to the New Mexico border. I've always had a passion for learning, particularly geography and music. Some of my fondest childhood memories include advancing to the finals at the Colorado geography bee, six years of voice lessons with my music studio, studying Google Maps to put together roadtripping and road-biking itineraries, and writing songs on the playground in elementary school.
 
-## Selected Middlebury Coursework
-- [Final Portfolio Geog 323: Open Source GIScience](open_source/opensource.md)
-- [Analysis and Visualization of My Spotify Wrapped 2021](https://jackson-mumper.shinyapps.io/FinalProj/)
-- [Story Map on The Russia/Georgia Border Conflict](https://storymaps.arcgis.com/stories/4265709ca20e4c08b8f8e950bf6e53c3)
-- [Final Portfolio Geog 351: Remote Sensing and Land Use in Sub-Saharan Africa Portfolio](https://sites.middlebury.edu/jmumpergeog351/)
-- [Sample Works from Geog 120: Human Geography with GIS](geog120/geog120.md)
-- [Final Project for Soci 1001: The 2020 Census](segregation.pdf)
+I graduated from Middlebury College in 2022 with a geography major, a music minor, and significant language coursework in both Spanish and Russian. This allowed me the flexibility to 
 
-## Music
-- [My Substack](https://jmumps.substack.com/), for travel stories and my thoughts on pop music.
-- [A Winter Dawn](https://www.youtube.com/watch?v=7B1KUhbPQP4) (Original Composition, 2018)
+After finishing school, I took my language skills on a gap year and traveled throughout the South Caucasus, Central Asia, and Mexico. When I returned stateside, I moved to Portland, Oregon and worked for two years as an analyst on the product team at Fraym. During my time at Fraym I built data pipelines in python, R, and QGIS, and developed new analytical tools for our team to interpret survey data for a variety of development and security projects around the world. During this time, I also launched <a href="https://jmumps.substack.com/" target="_blank">mump's playlist.</a>, a newsletter where I explore all things popular music, local and global, and analyze streaming data and the Billboard charts. Otherwise, I love running, reading non-fiction, travel, crocheting in bars, lingering a little too long in Portland's many coffee shops, and cats.
+
+I'm currently employed as a barista, making drinks for students at the University of Portland. I'm also enrolled in the online Data Analytics MicroMasters program with Georgia Tech to keep expanding my technical toolkit, and <a href="https://jmumps.substack.com/" target="_blank">mump's playlist.</a> is as active as ever. As much as I'm enjoying the barista gig, I'm also eager to transition back to a career in GIS, data analytics, or really anything that allows me to explore my wide-ranging interests and skillset. If you're reading this, there's a good chance you can help me make that happen!
+
+So now that you've made it this far, take a look around my page! The sidebar to the left includes links to different pages, including selected data and GIS projects I've worked on, my music journalism and compositions, travel reports and photography, my resume, and links to my social media and email. Let's get in touch!
