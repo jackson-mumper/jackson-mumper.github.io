@@ -37,7 +37,7 @@ The gravity model takes input and target layers, each with specified ID and weig
 
 **Dartmouth HSA Comparison**
 
-A map of the hospital catchment areas that I found when compared to the Dartmouth Atlas can be found [here.](https://jackson-mumper.github.io/gravity/assets/leaflet_map/#6/44.281/-70.887)
+A map of the hospital catchment areas that I found when compared to the Dartmouth Atlas can be found [here.](https://jackson-mumper.github.io/projects/open_source/gravity/assets/leaflet_map/#6/44.281/-70.887)
 
 As you can see, there are several differences between the hospital regions found by my model and the Dartmouth Hospital Service Areas. My model places a much stronger reliance on beds than distance when compared to the Dartmouth HSAs. Springfield, MA, for example, has a catchment area in my analysis that includes almost all of western Massachusetts as well as much of northern Connecticut, totally over 3 million people, despite there being several other hospitals in the region. In future iterations of this project I would decrease the friction of distance to adjust this skewed result.
 

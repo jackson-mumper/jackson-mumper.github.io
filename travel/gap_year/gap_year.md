@@ -42,10 +42,8 @@ During the couple months I was back in the States between Central Asia and Mexic
 
 ~~A Semi-Post-Covid Travelog: How This Journey Started~~
 
-Gay Travels Part 1: Taraz
 <a href="https://jmumps.substack.com/p/travel-stories-taraz" target="_blank">Gay Travels Part 1: Taraz</a>
 
-Gay Travels Part 2: Ears
 <a href="https://jmumps.substack.com/p/travel-stories-ears-and-other-gay" target="_blank">Gay Travels Part 2: Ears and Other Gay Things</a>
 
 <a href="https://jmumps.substack.com/p/travel-stories-aktau-rocks-and-an" target="_blank">Gay Travels Part 3: Aktau Rocks and an Almaty Story</a>

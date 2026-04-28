@@ -5,9 +5,6 @@ layout: default
 
 # Projects and Publications
 
-*(intro paragraph here, maybe write about Fraym work/Midd work. explain why there's not much here from either of those - Fraym NDA)*
-
-* * *
 
 <a href="https://jmumps.substack.com/p/a-rapper-a-tour-and-a-whole-lot-of" target="_blank">A rapper, a tour, and a whole lot of chart data</a>
 
@@ -37,12 +34,14 @@ An essay on different types of natural spaces as part of the *Tbilisi as and Urb
 
 Updating a rural Colorado school district’s director district boundaries after the 2020 census, and mapping the new regions in QGIS.
 
+* * *
+
 ## Middlebury Coursework:
-- [Final Portfolio Geog 323: Open Source GIScience](open_source/opensource.md)
-- <a href="https://jackson-mumper.shinyapps.io/FinalProj/" target="_blank">Analysis and Visualization of My Spotify Wrapped 2021</a>
-- <a href="https://storymaps.arcgis.com/stories/4265709ca20e4c08b8f8e950bf6e53c3" target="_blank">Story Map on The Russia/Georgia Border Conflict</a>
-- <a href="https://sites.middlebury.edu/jmumpergeog351/" target="_blank">Final Portfolio Geog 351: Remote Sensing and Land Use in Sub-Saharan Africa Portfolio</a>
-- [Sample Works from Geog 120: Human Geography with GIS](geog120/geog120.md)
-- [Final Project for Soci 1001: The 2020 Census](segregation.pdf)
+[Final Portfolio Geog 323: Open Source GIScience](open_source/opensource.md)
+<a href="https://jackson-mumper.shinyapps.io/FinalProj/" target="_blank">Analysis and Visualization of My Spotify Wrapped 2021</a>
+<a href="https://storymaps.arcgis.com/stories/4265709ca20e4c08b8f8e950bf6e53c3" target="_blank">Story Map on The Russia/Georgia Border Conflict</a>
+<a href="https://sites.middlebury.edu/jmumpergeog351/" target="_blank">Final Portfolio Geog 351: Remote Sensing and Land Use in Sub-Saharan Africa Portfolio</a>
+[Sample Works from Geog 120: Human Geography with GIS](geog120/geog120.md)
+[Final Project for Soci 1001: The 2020 Census](segregation.pdf)
 
 [back](../)
