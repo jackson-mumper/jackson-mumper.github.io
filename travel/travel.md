@@ -8,6 +8,8 @@ layout: default
 
 ### Taiwan 2025
 
+[See more!](taiwan/taiwan.md)
+
 <div id="image-table">
     <table>
 	    <tr>
