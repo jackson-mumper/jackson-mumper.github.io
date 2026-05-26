@@ -5,6 +5,11 @@ layout: default
 
 # Projects and Publications
 
+[Portland Bike Desire Paths](pdx_bike/pdx_bike.md)
+
+A spatial investigation, comparing the [Portland Bike Map](https://pdx.maps.arcgis.com/apps/webappviewer/index.html?id=b51534aa6e1f4dd4ad4d83c4a084d9a6) with real ridership data from Biketown, Portland's bikeshare network.
+
+* * *
 
 <a href="https://jmumps.substack.com/p/a-rapper-a-tour-and-a-whole-lot-of" target="_blank">A rapper, a tour, and a whole lot of chart data</a>
 

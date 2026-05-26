@@ -3,7 +3,7 @@ title: My Travels
 layout: default
 ---
 
-Shortly after the trip, while my memories were a bit fresher, I wrote a piece <a href="https://jmumps.substack.com/p/shazaming-the-streets-of-taiwan" target="_blank">on my Substack</a> about the songs I heard while out and about. Check it out for some good tunes and some WORDS.
+Shortly after this trip, while my memories were a bit fresher, I wrote a piece <a href="https://jmumps.substack.com/p/shazaming-the-streets-of-taiwan" target="_blank">on my Substack</a> about the songs I heard while out and about. Check it out for some good tunes and some WORDS.
 
 ## Day One and Hualien
 
@@ -41,7 +41,7 @@ The next day I rented a bike from a nearby shop and rode 30km around the city. I
         	    <img src="assets/hua1.jpg" width="400"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="assets/hua2.jpg" width="400"/>
+            	<img src="assets/hua2.png" width="400"/>
             </td>
             <td style="padding:10px">
             	<img src="assets/hua3.jpg" width="400"/>
@@ -49,7 +49,7 @@ The next day I rented a bike from a nearby shop and rode 30km around the city. I
         </tr>
     </table>
 </div>
-*Three pictures from my walk. Notice a familiar figure in the background?*
+*Beaches, biking, and Daoist cats*
 
 That afternoon I explored the city more on foot. I got some boba and walked Ziyou Street to the Hualien Cultural and Creative Industries Park. After walking around for an hour or so, I realized I left my water bottle on the bench where I sat to drink my boba. It was still there when I went back for it. It struck me how secure I felt in Taiwan with regard to theft and crime. I even left my bike unlocked around town and it was completely fine, which would have never happened in the US. I don't remember if I had a lock or not, but either way it didn't even seem necessary. I bought some souvenirs that night, had another meal at the night market (this time some mapo tofu and corn on the cob on a stick dipped in sauce) and took the train back to Taipei the next morning.
 
@@ -61,8 +61,8 @@ That afternoon I explored the city more on foot. I got some boba and walked Ziyo
 
 ## Kaohsiung and Tainan
 
-## Fenqihu and Day Trips
+## Fenqihu
 
-## Back to Taipei
+## Taipei and Day Trips
 
 [back](../)
