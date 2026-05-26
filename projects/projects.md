@@ -5,6 +5,8 @@ layout: default
 
 # Projects and Publications
 
+* * *
+
 [Portland Bike Desire Paths](pdx_bike/pdx_bike.md)
 
 A spatial investigation, comparing the [Portland Bike Map](https://pdx.maps.arcgis.com/apps/webappviewer/index.html?id=b51534aa6e1f4dd4ad4d83c4a084d9a6) with real ridership data from Biketown, Portland's bikeshare network.
@@ -53,5 +55,7 @@ Updating a rural Colorado school district’s director district boundaries after
 [Sample Works from Geog 120: Human Geography with GIS](geog120/geog120.md)
 
 [Final Project for Soci 1001: The 2020 Census](segregation.pdf)
+
+* * *
 
 [back](../)

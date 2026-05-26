@@ -50,8 +50,8 @@ title: Portland bike Desire Paths
 
         <style>
         #map {
-            width: 811px;
-            height: 625px;
+            width: 608px;
+            height: 469px;
         }
         </style>
         <title></title>
