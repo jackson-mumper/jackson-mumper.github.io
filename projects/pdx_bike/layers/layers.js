@@ -55,7 +55,7 @@ var lyr_BiketownSegments_3 = new ol.layer.Vector({
                 style: style_BiketownSegments_3,
                 popuplayertitle: 'Biketown Segments',
                 interactive: true,
-    title: 'Biketown Segments<br />\
+    title: 'Biketown Segment Ridership<br />\
     Low <img src="styles/legend/BiketownSegments_3_0.png" /> <img src="styles/legend/BiketownSegments_3_4.png" /> <img src="styles/legend/BiketownSegments_3_8.png" /> <img src="styles/legend/BiketownSegments_3_12.png" /> <img src="styles/legend/BiketownSegments_3_16.png" /> <img src="styles/legend/BiketownSegments_3_20.png" /> <img src="styles/legend/BiketownSegments_3_24.png" /> High <br />' });
 var format_Difference_4 = new ol.format.GeoJSON();
 var features_Difference_4 = format_Difference_4.readFeatures(json_Difference_4,

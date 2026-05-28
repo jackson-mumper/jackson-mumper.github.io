@@ -10,7 +10,15 @@ title: Portland Bike Desire Paths
 
 ## Introduction/Lit Review
 
-PICTURE OF A BIKETOWN DOC
+Paragraph about what desire paths are. The principal of using human behavior to shape route planning
+
+Paragraph about cycling in Portland. Introduce both the Bike Map/Greenway system and Biketown
+
+While it's difficult to get reliable data about people's trips on their personal bikes, Biketown has a large database of where and how Portlanders get around the city on their vehicles. While not desire paths in the traditional sense (no erosion to the physical landscape because these paths were already paved for car traffic), this ridership data can be compared with the Portland Bike Map to see where Portlanders want to cycle, and what gaps may exist in the greenway network. Are there any places where the PBOT could better support Portland's cyclists?
+
+There is a limitation here in that Biketown represents only a small portion of the cycling that takes place in the city, and is more expensive than traditional biking and limited to those with mobile app access, a credit/debit card, and reliable physical proximity to Biketown vehicles. This is no doubt skewing the results to some extent. Still, this is the data we're working with.
+
+![biketown](assets/biketown.jpg)
 
 ## Methodology
 
@@ -22,8 +30,6 @@ PICTURE OF A BIKETOWN DOC
 6.	Use the Join Attributes by Location tool to add the GEOID field to the Biketown segment shapefile, using a one-to-one join with the largest overlap.
 7.	Create a new variable in the Biketown segments that is unique for each street name and GEOID combination. Aggregate the Biketown segments based on this column, adding together the vehicle-meters traveled for each segment into the aggregated segments.
 8.	Use the Join Attributes by Location tool again, this time using the buffered BikeMap layer as the overlay, and again with a one-to-one join using the greatest overlap. This categorizes Biketown-Block Group segments as within the BikeMap network or outside the network, and ensures segments that interest the BikeMap network but are not themselves BikeMap routes are excluded.
-
-DO I WANT TO CALCULATE % BIKE ACTIVITY THAT TAKES PLACE ON RECOMMENDED ROUTES?
 
 **Findings**
 
@@ -48,8 +54,7 @@ Below is a list of the ten Biketown segments with the highest number of Q1 vehic
 
 The interactive map below shows all road segments in the final dataset. Segments with more bike activity are colored in red, and those with less bike activity are in blue. Zooming in, you can see the Portland Bike Map's recommended routes, which are highlighted in white. Clicking on a road segment displays its name, bike-kms traveled, and whether the segment is a recommended cycling route.
 
-<html lang="en">
-    <head>
+<head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
@@ -91,8 +96,8 @@ The interactive map below shows all road segments in the final dataset. Segments
         }
         </style>
         <title></title>
-    </head>
-    <body>
+</head>
+<body>
         <div id="map">
             <div id="popup" class="ol-popup">
                 <a href="#" id="popup-closer" class="ol-popup-closer"></a>
@@ -110,8 +115,7 @@ The interactive map below shows all road segments in the final dataset. Segments
         <script src="./layers/layers.js" type="text/javascript"></script>
         <script src="./resources/Autolinker.min.js"></script>
         <script src="./resources/qgis2web.js"></script>
-    </body>
-</html>
+</body>
 
 
 ## Site Visits
@@ -186,8 +190,9 @@ These sections of NE 7th and 9th Aves are less trafficked overall, and don't ser
         </tr>
     </table>
 </div>
-*7th St*
+*7th Ave*
 
+While this area had fewer riders than the SE corridor, I wasn't the only one biking on 7th Ave while I was there, and far fewer cars. The road was narrower than Division and Clinton, with parked cars on both sides and speed humps on nearly every block north of Fremont (these speed humps did not have cutouts for easy cycling). That said, there was some limited bike infrastructure, including a short painted bike lane to help with crossing Fremont S and a mini roundabout for traffic calming. There was even a painted bike arrow at the intersection with Siskiyou St, directing bikes onto southbound 7th.
 
 <div id="image-table">
     <table>
@@ -204,9 +209,9 @@ These sections of NE 7th and 9th Aves are less trafficked overall, and don't ser
         </tr>
     </table>
 </div>
-*9th St*
+*9th Ave*
 
-In general, 9th has a very similar character to 7th - narrow neighborhood streets with lots of parked cars and speed humps. However, the bike infrastructure was actually more limited on 9th. There were no mini roundabouts, no bike lane when crossing Fremont St, and there was a significant barrier to easy riding in Irving Park.
+In general, 9th has a very similar character to 7th - narrow neighborhood streets with lots of parked cars and speed humps. However, the bike infrastructure was actually more limited on 9th. There were no mini roundabouts, no bike lane when crossing Fremont St, and there was a significant barrier to easy riding in Irving Park. The only physical indication I saw that I was on a neighborhood greenway at all was the bicycle design above the stop signs. I did not see anyone else cycling on 9th while I was there.
 
 While on paper it may seem wise to route a greenway through Irving Park, it actually proved to be a fairly significant barrier. The park's trails are quite narrow, as they were designed primarily for foot traffic, and I found it difficult to maintain an appropriately slow speed on a e-bike to navigate these trails (and the accompanying pedestrians walking their dogs) safely. In comparison, the surrounding neighborhood streets see quite little car traffic, and the cars that are already moving slowly as they maneuver the area's many speed humps, narrow streets, and parked cars. The northern end of the park's trail also has a short section that was much too steep to comfortably.
 
@@ -214,7 +219,7 @@ Given the differences in infrastructure between 7th and 9th, I think it makes se
 
 ## Conclusion
 
-Argue the 7th Street is a desire path.
+Argue the 7th Ave is a desire path.
 
 ## Data Sources
 - [Biketown Service Area Boundary](https://gis-pdx.opendata.arcgis.com/datasets/d4edce3b82d441ff8f621d07a21eb11f_1301/explore?location=45.535874%2C-122.566732%2C12)
