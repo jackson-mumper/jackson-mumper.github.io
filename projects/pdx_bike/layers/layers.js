@@ -5,15 +5,15 @@ var wms_layers = [];
             'title': 'OpenStreetMap',
             'type':'base',
             'opacity': 1.000000,
-            
-            
+
+
             source: new ol.source.XYZ({
             attributions: '<a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors, CC-BY-SA</a>',
                 url: 'http://tile.openstreetmap.org/{z}/{x}/{y}.png'
             })
         });
 var format_BikeShareServiceArea_1 = new ol.format.GeoJSON();
-var features_BikeShareServiceArea_1 = format_BikeShareServiceArea_1.readFeatures(json_BikeShareServiceArea_1, 
+var features_BikeShareServiceArea_1 = format_BikeShareServiceArea_1.readFeatures(json_BikeShareServiceArea_1,
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
 var jsonSource_BikeShareServiceArea_1 = new ol.source.Vector({
     attributions: ' ',
@@ -21,14 +21,14 @@ var jsonSource_BikeShareServiceArea_1 = new ol.source.Vector({
 jsonSource_BikeShareServiceArea_1.addFeatures(features_BikeShareServiceArea_1);
 var lyr_BikeShareServiceArea_1 = new ol.layer.Vector({
                 declutter: false,
-                source:jsonSource_BikeShareServiceArea_1, 
+                source:jsonSource_BikeShareServiceArea_1,
                 style: style_BikeShareServiceArea_1,
                 popuplayertitle: 'Bike Share Service Area',
                 interactive: false,
                 title: '<img src="styles/legend/BikeShareServiceArea_1.png" /> Bike Share Service Area'
             });
 var format_BikeMapRecommendedRoutes_2 = new ol.format.GeoJSON();
-var features_BikeMapRecommendedRoutes_2 = format_BikeMapRecommendedRoutes_2.readFeatures(json_BikeMapRecommendedRoutes_2, 
+var features_BikeMapRecommendedRoutes_2 = format_BikeMapRecommendedRoutes_2.readFeatures(json_BikeMapRecommendedRoutes_2,
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
 var jsonSource_BikeMapRecommendedRoutes_2 = new ol.source.Vector({
     attributions: ' ',
@@ -36,14 +36,14 @@ var jsonSource_BikeMapRecommendedRoutes_2 = new ol.source.Vector({
 jsonSource_BikeMapRecommendedRoutes_2.addFeatures(features_BikeMapRecommendedRoutes_2);
 var lyr_BikeMapRecommendedRoutes_2 = new ol.layer.Vector({
                 declutter: false,
-                source:jsonSource_BikeMapRecommendedRoutes_2, 
+                source:jsonSource_BikeMapRecommendedRoutes_2,
                 style: style_BikeMapRecommendedRoutes_2,
                 popuplayertitle: 'Bike Map Recommended Routes',
                 interactive: false,
                 title: '<img src="styles/legend/BikeMapRecommendedRoutes_2.png" /> Bike Map Recommended Routes'
             });
 var format_BiketownSegments_3 = new ol.format.GeoJSON();
-var features_BiketownSegments_3 = format_BiketownSegments_3.readFeatures(json_BiketownSegments_3, 
+var features_BiketownSegments_3 = format_BiketownSegments_3.readFeatures(json_BiketownSegments_3,
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
 var jsonSource_BiketownSegments_3 = new ol.source.Vector({
     attributions: ' ',
@@ -51,38 +51,14 @@ var jsonSource_BiketownSegments_3 = new ol.source.Vector({
 jsonSource_BiketownSegments_3.addFeatures(features_BiketownSegments_3);
 var lyr_BiketownSegments_3 = new ol.layer.Vector({
                 declutter: false,
-                source:jsonSource_BiketownSegments_3, 
+                source:jsonSource_BiketownSegments_3,
                 style: style_BiketownSegments_3,
                 popuplayertitle: 'Biketown Segments',
                 interactive: true,
     title: 'Biketown Segments<br />\
-    <img src="styles/legend/BiketownSegments_3_0.png" /> 698 - 10^3.2<br />\
-    <img src="styles/legend/BiketownSegments_3_1.png" /> 10^3.2 - 10^3.4<br />\
-    <img src="styles/legend/BiketownSegments_3_2.png" /> 10^3.4 - 10^3.6<br />\
-    <img src="styles/legend/BiketownSegments_3_3.png" /> 10^3.6 - 10^3.8<br />\
-    <img src="styles/legend/BiketownSegments_3_4.png" /> 10^3.8 - 10^4<br />\
-    <img src="styles/legend/BiketownSegments_3_5.png" /> 10^4 - 10^4.2<br />\
-    <img src="styles/legend/BiketownSegments_3_6.png" /> 10^4.2 - 10^4.4<br />\
-    <img src="styles/legend/BiketownSegments_3_7.png" /> 10^4.4 - 10^4.6<br />\
-    <img src="styles/legend/BiketownSegments_3_8.png" /> 10^4.6 - 10^4.8<br />\
-    <img src="styles/legend/BiketownSegments_3_9.png" /> 10^4.8 - 10^5<br />\
-    <img src="styles/legend/BiketownSegments_3_10.png" /> 10^5 - 10^5.2<br />\
-    <img src="styles/legend/BiketownSegments_3_11.png" /> 10^5.2 - 10^5.4<br />\
-    <img src="styles/legend/BiketownSegments_3_12.png" /> 10^5.4 - 10^5.6<br />\
-    <img src="styles/legend/BiketownSegments_3_13.png" /> 10^5.6 - 10^5.8<br />\
-    <img src="styles/legend/BiketownSegments_3_14.png" /> 10^5.8 - 10^6<br />\
-    <img src="styles/legend/BiketownSegments_3_15.png" /> 10^6 - 10^6.2<br />\
-    <img src="styles/legend/BiketownSegments_3_16.png" /> 10^6.2 - 10^6.4<br />\
-    <img src="styles/legend/BiketownSegments_3_17.png" /> 10^6.4 - 10^6.6<br />\
-    <img src="styles/legend/BiketownSegments_3_18.png" /> 10^6.6 - 10^6.8<br />\
-    <img src="styles/legend/BiketownSegments_3_19.png" /> 10^6.8 - 10^7<br />\
-    <img src="styles/legend/BiketownSegments_3_20.png" /> 10^7 - 10^7.2<br />\
-    <img src="styles/legend/BiketownSegments_3_21.png" /> 10^7.2 - 10^7.4<br />\
-    <img src="styles/legend/BiketownSegments_3_22.png" /> 10^7.4 - 10^7.6<br />\
-    <img src="styles/legend/BiketownSegments_3_23.png" /> 10^7.6 - 10^7.8<br />\
-    <img src="styles/legend/BiketownSegments_3_24.png" /> 10^7.8 - 10^8<br />' });
+    Low <img src="styles/legend/BiketownSegments_3_0.png" /> <img src="styles/legend/BiketownSegments_3_4.png" /> <img src="styles/legend/BiketownSegments_3_8.png" /> <img src="styles/legend/BiketownSegments_3_12.png" /> <img src="styles/legend/BiketownSegments_3_16.png" /> <img src="styles/legend/BiketownSegments_3_20.png" /> <img src="styles/legend/BiketownSegments_3_24.png" /> High <br />' });
 var format_Difference_4 = new ol.format.GeoJSON();
-var features_Difference_4 = format_Difference_4.readFeatures(json_Difference_4, 
+var features_Difference_4 = format_Difference_4.readFeatures(json_Difference_4,
             {dataProjection: 'EPSG:4326', featureProjection: 'EPSG:3857'});
 var jsonSource_Difference_4 = new ol.source.Vector({
     attributions: ' ',
@@ -90,11 +66,11 @@ var jsonSource_Difference_4 = new ol.source.Vector({
 jsonSource_Difference_4.addFeatures(features_Difference_4);
 var lyr_Difference_4 = new ol.layer.Vector({
                 declutter: false,
-                source:jsonSource_Difference_4, 
+                source:jsonSource_Difference_4,
                 style: style_Difference_4,
                 popuplayertitle: 'Difference',
                 interactive: false,
-                title: '<img src="styles/legend/Difference_4.png" /> Difference'
+                title: ''
             });
 
 lyr_OpenStreetMap_0.setVisible(true);lyr_BikeShareServiceArea_1.setVisible(true);lyr_BikeMapRecommendedRoutes_2.setVisible(true);lyr_BiketownSegments_3.setVisible(true);lyr_Difference_4.setVisible(true);
