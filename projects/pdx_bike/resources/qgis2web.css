@@ -1,15 +1,6 @@
-html, body {
-    height: 100%;
-    padding: 0;
-    margin: 0;
+#map {
     font-family: sans-serif;
     font-size: small;
-}
-
-
-#map {
-    width: 100%;
-    height: 100%;
 }
 
 .ol-control {
@@ -205,7 +196,7 @@ td video {
     text-align: center;
     cursor: pointer;
     padding: 3px;
-    
+
 }
 
 .project-abstract-uncollapsed {
@@ -414,10 +405,10 @@ td video {
 	margin: unset;
 	display: flex;
 	list-style: none;
-	} 	
+	}
 .bottom-attribution > li {
 	padding-left: 8px !important;
-	list-style: none;	
+	list-style: none;
 	}
 
 .fa-exclamation-triangle {

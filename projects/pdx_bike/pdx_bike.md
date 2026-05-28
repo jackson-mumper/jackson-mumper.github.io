@@ -54,17 +54,13 @@ Below is a list of the ten Biketown segments with the highest number of Q1 vehic
 
 The interactive map below shows all road segments in the final dataset. Segments with more bike activity are colored in red, and those with less bike activity are in blue. Zooming in, you can see the Portland Bike Map's recommended routes, which are highlighted in white. Clicking on a road segment displays its name, bike-kms traveled, and whether the segment is a recommended cycling route.
 
-<head>
 
-        <link rel="stylesheet" href="./resources/ol.css">
-        <link rel="stylesheet" href="resources/fontawesome-all.min.css">
-        <link href="resources/photon-geocoder-autocomplete.min.css" rel="stylesheet">
-        <link rel="stylesheet" href="./resources/ol-layerswitcher.css">
-        <link rel="stylesheet" href="./resources/qgis2web.css">
-        <style>
-        html, body {
-            background-color: #ffffff;
-        }
+<link rel="stylesheet" href="./resources/ol.css">
+<link rel="stylesheet" href="resources/fontawesome-all.min.css">
+<link href="resources/photon-geocoder-autocomplete.min.css" rel="stylesheet">
+<link rel="stylesheet" href="./resources/ol-layerswitcher.css">
+<link rel="stylesheet" href="./resources/qgis2web.css">
+<style>
         .ol-control > * {
             background-color: #f8f8f8!important;
             color: #444444!important;
@@ -83,16 +79,15 @@ The interactive map below shows all road segments in the final dataset. Segments
             background-color: rgba(255,255,255,.4) !important;
             padding: 2px !important;
         }
-        </style>
+</style>
 
-        <style>
+<style>
         #map {
+            background-color: #ffffff;
             width: 608px;
             height: 469px;
         }
-        </style>
-        <title></title>
-</head>
+</style>
 
 
 ## Site Visits
