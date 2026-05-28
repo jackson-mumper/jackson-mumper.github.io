@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Portland bike Desire Paths
+title: Portland Bike Desire Paths
 ---
 
 # Portland Bike Desire Paths
-# WARNING: This write-up is still a work-in-progress. Feel free to take a look at my progress so far, but the final draft won't be ready for another couple weeks.
+
+## WARNING: This write-up is still a work-in-progress. Feel free to take a look at my progress so far, but the final draft won't be ready for another couple weeks.
 
 
 ## Introduction/Lit Review
@@ -49,7 +50,7 @@ The interactive map below shows all road segments in the final dataset. Segments
     <head>
         <meta charset="utf-8">
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
+
         <meta name="mobile-web-app-capable" content="yes">
         <meta name="apple-mobile-web-app-capable" content="yes">
         <link rel="stylesheet" href="./resources/ol.css">
@@ -110,6 +111,7 @@ The interactive map below shows all road segments in the final dataset. Segments
     </body>
 </html>
 
+
 ## Site Visits
 
 Several road names appeal multiple times in the top 10 list, indicating that the desire paths for bike infrastructure might be longer than the census block boundaries used in this analysis. Even more interesting is that several of these run parallel to a bike path or neighborhood greenway only a block or two away. I spent an afternoon on a Biketown visiting these highly used portions of SE Division and NE 7th, and to compare the experience of riding on these sections of road to riding their adjacent, parallel greenways on SE Clinton and NE 9th.
@@ -125,13 +127,13 @@ I began my ride eastbound from the OMSI MAX stop on the non-sanctioned Division 
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="division_cliton/division1.jpg" width="400"/>
+        	    <img src="division_clinton/division1.jpg" width="400"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="division_cliton/division2.jpg" width="400"/>
+            	<img src="division_clinton/division2.jpg" width="400"/>
             </td>
             <td style="padding:10px">
-            	<img src="division_cliton/division3.jpg" width="400"/>
+            	<img src="division_clinton/division3.jpg" width="400"/>
             </td>
         </tr>
     </table>
@@ -144,13 +146,13 @@ There was some bike infrastructure on SE Division, and I was not the only cyclis
     <table>
 	    <tr>
     	    <td style="padding:10px">
-        	    <img src="division_cliton/clinton1.jpg" width="400"/>
+        	    <img src="division_clinton/clinton1.jpg" width="400"/>
       	    </td>
             <td style="padding:10px">
-            	<img src="division_cliton/clinton2.jpg" width="400"/>
+            	<img src="division_clinton/clinton2.jpg" width="400"/>
             </td>
             <td style="padding:10px">
-            	<img src="division_cliton/clinton3.jpg" width="400"/>
+            	<img src="division_clinton/clinton3.jpg" width="400"/>
             </td>
         </tr>
     </table>
