@@ -55,11 +55,7 @@ Below is a list of the ten Biketown segments with the highest number of Q1 vehic
 The interactive map below shows all road segments in the final dataset. Segments with more bike activity are colored in red, and those with less bike activity are in blue. Zooming in, you can see the Portland Bike Map's recommended routes, which are highlighted in white. Clicking on a road segment displays its name, bike-kms traveled, and whether the segment is a recommended cycling route.
 
 <head>
-        <meta charset="utf-8">
-        <meta http-equiv="X-UA-Compatible" content="IE=edge">
-        <meta name="viewport" content="initial-scale=1,user-scalable=no,maximum-scale=1,width=device-width">
-        <meta name="mobile-web-app-capable" content="yes">
-        <meta name="apple-mobile-web-app-capable" content="yes">
+
         <link rel="stylesheet" href="./resources/ol.css">
         <link rel="stylesheet" href="resources/fontawesome-all.min.css">
         <link href="resources/photon-geocoder-autocomplete.min.css" rel="stylesheet">
@@ -97,7 +93,6 @@ The interactive map below shows all road segments in the final dataset. Segments
         </style>
         <title></title>
 </head>
-
 
 
 ## Site Visits
