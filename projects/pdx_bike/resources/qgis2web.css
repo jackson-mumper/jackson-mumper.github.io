@@ -113,9 +113,9 @@ td {
 	min-width: 100px;
 }
 
-td img {
-	max-height: 50vh!important;
-	max-width: 50vw!important;
+#map td img {
+    max-height: 50vh!important;
+    max-width: 50vw!important;
 }
 
 td video {
