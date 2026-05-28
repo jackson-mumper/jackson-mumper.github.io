@@ -97,25 +97,7 @@ The interactive map below shows all road segments in the final dataset. Segments
         </style>
         <title></title>
 </head>
-<body>
-        <div id="map">
-            <div id="popup" class="ol-popup">
-                <a href="#" id="popup-closer" class="ol-popup-closer"></a>
-                <div id="popup-content"></div>
-            </div>
-        </div>
-        <script src="resources/qgis2web_expressions.js"></script>
-        <script src="./resources/functions.js"></script>
-        <script src="./resources/ol.js"></script>
-        <script src="./resources/ol-layerswitcher.js"></script>
-        <script src="resources/photon-geocoder-autocomplete.min.js"></script>
-        <script src="resources/olms.js"></script>
-        <script src="layers/BikeShareServiceArea_1.js"></script><script src="layers/BikeMapRecommendedRoutes_2.js"></script><script src="layers/BiketownSegments_3.js"></script><script src="layers/Difference_4.js"></script>
-        <script src="styles/BikeShareServiceArea_1_style.js"></script><script src="styles/BikeMapRecommendedRoutes_2_style.js"></script><script src="styles/BiketownSegments_3_style.js"></script><script src="styles/Difference_4_style.js"></script>
-        <script src="./layers/layers.js" type="text/javascript"></script>
-        <script src="./resources/Autolinker.min.js"></script>
-        <script src="./resources/qgis2web.js"></script>
-</body>
+
 
 
 ## Site Visits
