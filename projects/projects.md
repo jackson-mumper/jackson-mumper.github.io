@@ -7,7 +7,7 @@ layout: default
 
 * * *
 
-[Portland Bike Desire Paths](pdx_bike/pdx_bike.md)
+[Biketown Desire Paths and Route Planning in Portland, OR](pdx_bike/pdx_bike.md)
 
 A spatial investigation, comparing the [Portland Bike Map](https://pdx.maps.arcgis.com/apps/webappviewer/index.html?id=b51534aa6e1f4dd4ad4d83c4a084d9a6) with real ridership data from Biketown, Portland's bikeshare network.
 
@@ -19,9 +19,9 @@ A data analysis and visualization project mapping the impact of NBA YoungBoy's M
 
 * * *
 
-[Hide and Seek Map of Portland](hide_and_seek/hide_and_seek.md)
+[Hide and Seek Map of Portland, OR](hide_and_seek/hide_and_seek.md)
 
-A map of valid hiding locations to be used in game of Jet Lag: The Game, Hide and Seek based in downtown Portland, Oregon.
+A map of valid hiding locations to be used in game of Jet Lag: The Game, Hide and Seek based in downtown Portland.
 
 * * *
 
