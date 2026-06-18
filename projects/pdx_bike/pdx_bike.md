@@ -223,7 +223,7 @@ While most Biketown activity takes place along routes recommended in the Portlan
 
 ## Data Sources
 - [Biketown Ridership Data - Downloaded for Q1 2026](https://public.ridereport.com/pdx?x=-122.6411937&y=45.5228353&z=11.23&vehicle=e-bike)
-- [Portland Recommended Bicycle Routes](https://atlasdata.dartmouth.edu/downloads/supplemental#boundaries)
+- [Portland Recommended Bicycle Routes](https://gis-pdx.opendata.arcgis.com/datasets/e14a0185c46c4a3983a38be96bdaea07_183/explore?location=45.520135%2C-122.638767%2C14)
 - [Biketown Service Area Boundary](https://gis-pdx.opendata.arcgis.com/datasets/d4edce3b82d441ff8f621d07a21eb11f_1301/explore?location=45.535874%2C-122.566732%2C12)
 - [Oregon Census Block Groups 2020](https://geohub.oregon.gov/search?q=block%20groups)
 
