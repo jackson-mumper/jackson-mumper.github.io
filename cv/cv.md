@@ -8,13 +8,17 @@ layout: default
 ## Work/Internship Experience
 
 **Barista/Cashier**
+
 *Bon Appétit*
+
 Portland, OR | January 2026 – Present
 
 * Provided coffee and excellent customer service for the University of Portland community.
 
 **Analyst II**
+
 *Fraym*
+
 Arlington, VA (Remote) | March 2023 - March 2025
 
 * Built and maintained Python, R, and QGIS data pipelines to collect, clean, and transform geospatial and survey datasets. Enforced strict naming conventions, file organization standards, and data integrity checks across recurring analytical workflows.
@@ -29,7 +33,9 @@ Arlington, VA (Remote) | March 2023 - March 2025
 * Earned two promotions in under two years.
 
 **Experience the South Caucasus Fellow**
+
 *American Research Institue of the South Caucasus*
+
 Tbilisi, Georgia | June 2022 - August 2022
 
 * Awarded a three-month research fellowship in Tbilisi, Georgia.
@@ -37,7 +43,9 @@ Tbilisi, Georgia | June 2022 - August 2022
 * Assessed whether ruderal vegetation could be meaningfully converted into public green space.
 
 **Reapportionment Consultant**
+
 *Alamosa School District*
+
 Alamosa, CO (Remote) | March 2021 - November 2021
 
 * Assisted a rural Colorado school districting with reapportioning their voting regions after the 2020 census.
@@ -48,7 +56,9 @@ Alamosa, CO (Remote) | March 2021 - November 2021
 * Voting maps adopted by official vote of the board and remain in use today.
 
 **Summer Development Intern**
+
 *Andean Alliance for Sustainable Development*
+
 Calca, Cusco, Peru | June 2019 - August 2019
 
 * Conducted surveys and interviews on greenhouse satisfaction in English and Spanish.
@@ -57,7 +67,9 @@ Calca, Cusco, Peru | June 2019 - August 2019
 ## Certifications
 
 **MicroMasters of Analytics**
+
 *Georgia Tech*
+
 Expected: December 2026
 
 * Advanced Regression Modeling, Time Series Models, Classification, Clustering, Optimization, Simulation
@@ -66,12 +78,14 @@ Expected: December 2026
 ## Education
 
 **BA, Geography**
+
 *Middlebury College*
+
 September 2018 - May 2022
 
 * Data Science, Remote Sensing, Open Source GIScience
 * Urban/Rural Geography, International Development
-* Music Minor | Spanish and Russian Languages
+* Music Minor; Spanish and Russian Languages
 * GPA: 3.89
 
 
