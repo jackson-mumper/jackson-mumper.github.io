@@ -11,7 +11,7 @@ layout: default
 
 *Bon Appétit*
 
-Portland, OR | January 2026 – Present
+Portland, OR; January 2026 – Present
 
 * Provided coffee and excellent customer service for the University of Portland community.
 
@@ -19,7 +19,7 @@ Portland, OR | January 2026 – Present
 
 *Fraym*
 
-Arlington, VA (Remote) | March 2023 - March 2025
+Arlington, VA (Remote); March 2023 - March 2025
 
 * Built and maintained Python, R, and QGIS data pipelines to collect, clean, and transform geospatial and survey datasets. Enforced strict naming conventions, file organization standards, and data integrity checks across recurring analytical workflows.
 * Processed administrative division shapefiles in QGIS to ensure topological consistency for use in spatial analysis workflows spanning several countries.
@@ -36,7 +36,7 @@ Arlington, VA (Remote) | March 2023 - March 2025
 
 *American Research Institue of the South Caucasus*
 
-Tbilisi, Georgia | June 2022 - August 2022
+Tbilisi, Georgia; June 2022 - August 2022
 
 * Awarded a three-month research fellowship in Tbilisi, Georgia.
 * Published an essay on urban green space ecology and park design for the Tbilisi as an Urban Assemblage project with Ilia State University.
@@ -46,7 +46,7 @@ Tbilisi, Georgia | June 2022 - August 2022
 
 *Alamosa School District*
 
-Alamosa, CO (Remote) | March 2021 - November 2021
+Alamosa, CO (Remote); March 2021 - November 2021
 
 * Assisted a rural Colorado school districting with reapportioning their voting regions after the 2020 census.
 * Researched applicable state regulations, collected, and processed census data, and designed the full methodology independently.
@@ -59,7 +59,7 @@ Alamosa, CO (Remote) | March 2021 - November 2021
 
 *Andean Alliance for Sustainable Development*
 
-Calca, Cusco, Peru | June 2019 - August 2019
+Calca, Cusco, Peru; June 2019 - August 2019
 
 * Conducted surveys and interviews on greenhouse satisfaction in English and Spanish.
 * Co-authored a report with recommendations for program improvement for the organization.
